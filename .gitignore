@@ -29,7 +29,6 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
 
 # Symbolication related
 app.*.symbols
@@ -48,14 +47,14 @@ app.*.map.json
 # Files and directories created by pub
 .dart_tool/
 .packages
-build/
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 
 # Directory created by dartdoc
 # If you don't generate documentation locally you can remove this line.
 doc/api/
-
+build/*
+!build/web
 # dotenv environment variables file
 .env*
 
