@@ -66,6 +66,7 @@ build/*
 *.js_
 *.js.deps
 *.js.map
+_headers
 
 .flutter-plugins
 .flutter-plugins-dependencies
