@@ -1,0 +1,17 @@
+class Book {
+  final String name;
+  final String author;
+  final String publishDate;
+  final String ebookLink;
+  final String amazonLink;
+  final List<String> professors;
+
+  Book({
+    required this.name,
+    required this.author,
+    required this.publishDate,
+    required this.ebookLink,
+    required this.amazonLink,
+    required this.professors,
+  });
+}
