@@ -1,50 +1,36 @@
 
 import 'package:flutter/material.dart';
 
-import 'package:yachay_app/models/book.dart';
 import 'package:yachay_app/models/career.dart';
 import 'package:yachay_app/models/course.dart';
 import 'package:yachay_app/models/school.dart';
 
+
 final List<School> schools = [
   School(
     name: 'SCHOOL OF MATHEMATICAL AND COMPUTATIONAL SCIENCES',
+    schoolId: 'mtics',
     icon: Icons.computer,
     careers: [
       Career(
         name: 'Mathematics',
+        careerId: 'math',
         courses: [
           Course(
             name: 'Calculus I',
-            books: [
-              Book(
-                name: 'Calculus: Early Transcendentals',
-                author: 'James Stewart',
-                publishDate: '2015',
-                ebookLink: 'https://example.com/calculus1-ebook',
-                amazonLink: 'https://www.amazon.com/dp/B00XIHG8I6',
-                professors: ['C. Mayorga 1st', 'P. Narvaez 2nd'],
-              ),
-              // Add more books
-            ],
+            courseId: 'calc_1',
           ),
           Course(
             name: 'Calculus II',
-            books: [
-              // Add books for Calculus II
-            ],
+            courseId: 'calc_2',
           ),
           Course(
             name: 'Calculus III',
-            books: [
-              // Add books for Calculus III
-            ],
+            courseId: 'calc_3',
           ),
           Course(
             name: 'Linear Algebra',
-            books: [
-              // Add books for Linear Algebra
-            ],
+            courseId: 'lin_alg',
           ),
         ],
       ),

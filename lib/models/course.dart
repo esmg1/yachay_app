@@ -1,11 +1,9 @@
-import 'book.dart';
-
 class Course {
   final String name;
-  final List<Book> books;
+  final String courseId;
 
   Course({
     required this.name,
-    required this.books,
+    required this.courseId,
   });
 }

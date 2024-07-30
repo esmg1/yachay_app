@@ -4,8 +4,8 @@ import 'course_page.dart';
 
 class CareerPage extends StatelessWidget {
   final Career career;
-
-  const CareerPage({super.key, required this.career});
+  final String schoolId;
+  const CareerPage({super.key, required this.career, required this.schoolId});
 
   @override
   Widget build(BuildContext context) {
@@ -23,7 +23,7 @@ class CareerPage extends StatelessWidget {
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => CoursePage(course: career.courses[index]),
+                  builder: (context) => CoursePage(course: career.courses[index], schoolId: schoolId, careerId: career.careerId),
                 ),
               );
             },

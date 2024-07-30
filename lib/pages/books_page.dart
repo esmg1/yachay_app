@@ -57,7 +57,7 @@ class BooksPageState extends State<BooksPage> {
                             Navigator.push(
                               context,
                               MaterialPageRoute(
-                                builder: (context) => CareerPage(career: selectedSchool!.careers[index]),
+                                builder: (context) => CareerPage(career: selectedSchool!.careers[index], schoolId: selectedSchool!.schoolId),
                               ),
                             );
                           },
