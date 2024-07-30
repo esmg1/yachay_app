@@ -1,11 +1,13 @@
 import 'package:flutter/material.dart';
-import 'search_books.dart';
+import 'pages/books_page.dart';
 
 void main() {
-  runApp(UniApp());
+  runApp(const UniApp());
 }
 
 class UniApp extends StatelessWidget {
+  const UniApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -13,34 +15,36 @@ class UniApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: HomePage(),
+      home: const HomePage(),
     );
   }
 }
 
 class HomePage extends StatelessWidget {
+  const HomePage({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('UniApp'),
+        title: const Text('UniApp'),
       ),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text(
+            const Text(
               'Welcome to UniApp!',
               style: TextStyle(fontSize: 24),
             ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             CategoryButton(
               icon: Icons.book,
               label: 'Search Books',
               onPressed: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => SearchBooksPage()),
+                  MaterialPageRoute(builder: (context) => BooksPage()),
                 );
               },
             ),
@@ -78,7 +82,7 @@ class CategoryButton extends StatelessWidget {
   final String label;
   final VoidCallback onPressed;
 
-  CategoryButton({required this.icon, required this.label, required this.onPressed});
+  const CategoryButton({super.key, required this.icon, required this.label, required this.onPressed});
 
   @override
   Widget build(BuildContext context) {
