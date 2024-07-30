@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import '../models/course.dart';
 import '../services/book_service.dart';
+import 'add_book_page.dart';
 import 'book_page.dart';
 
 class CoursePage extends StatelessWidget {
   final Course course;
   final String careerId;
   final String schoolId;
-
 
   const CoursePage({super.key, required this.course, required this.schoolId, required this.careerId});
 
@@ -57,6 +57,16 @@ class CoursePage extends StatelessWidget {
             );
           }
         },
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => AddBookPage(courseId: course.courseId, careerId: careerId, schoolId: schoolId)),
+          );
+        },
+        tooltip: 'Add a new book',
+        child: const Icon(Icons.add),
       ),
     );
   }
