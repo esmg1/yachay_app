@@ -25,15 +25,14 @@ class BookService {
         var key = object['key'].toString().replaceAll(".json", "");
         return key.split("/").last;}).toList();
     } else {
-      print('EXCEPTION');
       throw Exception('Failed to get book names.');
     }
   }
 
-  Future<void> addBook(String courseId, Book book) async {
+  static Future<void> addBook(String schoolId, String careerId, String courseId, Book book, String bookId) async {
+    var finalBookId = bookId.replaceAll(" ", "_");
     final response = await http.post(
-      Uri.parse('$baseUrl/$courseId'),
-      headers: {'Content-Type': 'application/json'},
+      Uri.parse('$baseUrl/$schoolId/$careerId/$courseId/$finalBookId.json'),
       body: json.encode(book.toJson()),
     );
     if (response.statusCode != 201) {
@@ -41,9 +40,9 @@ class BookService {
     }
   }
 
-  Future<void> updateBook(String bookId, Book book) async {
+  static Future<void> updateBook(String schoolId, String careerId, String courseId, Book book, String bookId) async {
     final response = await http.put(
-      Uri.parse('$baseUrl/$bookId'),
+      Uri.parse('$baseUrl/$careerId/$courseId/$bookId.json'),
       headers: {'Content-Type': 'application/json'},
       body: json.encode(book.toJson()),
     );
