@@ -1,0 +1,3624 @@
+{
+    "CVB": {
+        "BIO": [
+            [
+                "BIOLEDB12",
+                "ELECTIVE - GENOMICS AND PROTEOMICS"
+            ],
+            [
+                "ECBI1016",
+                "NANOBIOTECHNOLOGY"
+            ],
+            [
+                "ECBI1049",
+                "OMICS"
+            ],
+            [
+                "ECBI1045",
+                "ANIMAL PHYSIOLOGY"
+            ],
+            [
+                "ECBI1039",
+                "GENERAL BOTANY"
+            ],
+            [
+                "BIOLEDB06",
+                "ELECTIVE - MICROBIAL ECOLOGY"
+            ],
+            [
+                "BIOLEGB08",
+                "PROFESSIONAL ELECTIVE VIII"
+            ],
+            [
+                "BIOLEGB07",
+                "PROFESSIONAL ELECTIVE VII"
+            ],
+            [
+                "ECBI1018",
+                "IMMUNOLOGY"
+            ],
+            [
+                "BIOLEDB18",
+                "ELECTIVE - ENVIRONMENTAL TOXICOLOGY AND BIOREMEDIATION"
+            ],
+            [
+                "ECBI1013",
+                "ELECTRONICS"
+            ],
+            [
+                "BIOLEDB13",
+                "ELECTIVE - IMMUNOLOGY"
+            ],
+            [
+                "BIOLEDB23",
+                "ELECTIVE - FUNDAMENTALS OF MEDICAL DIAGNOSIS"
+            ],
+            [
+                "ECBI1009",
+                "PROPERTIES OF MATERIALS"
+            ],
+            [
+                "BIOLEDB20",
+                "ELECTIVE - GENETIC ENGINEERING AND BIOTECHNOLOGY"
+            ],
+            [
+                "BIOLEGB05",
+                "PROFESSIONAL ELECTIVE V"
+            ],
+            [
+                "ECBI1042",
+                "CONSERVATION BIOLOGY"
+            ],
+            [
+                "ECBI1036",
+                "ANIMAL HISTOLOGY AND ANATOMY"
+            ],
+            [
+                "ECBI1020",
+                "GAIT BIOMECHANICS"
+            ],
+            [
+                "BIOLEDB29",
+                "ELECTIVE - BIOENERGY"
+            ],
+            [
+                "BIOLEDB15",
+                "ELECTIVE - MYCOLOGY"
+            ],
+            [
+                "ECBI1002",
+                "BIOLOGY II"
+            ],
+            [
+                "BIOLEDB05",
+                "ELECTIVE - MICROBIAL BIOTECHNOLOGY"
+            ],
+            [
+                "BIOL504",
+                "ZOOLOGY"
+            ],
+            [
+                "ECBI1011",
+                "MOLECULAR BIOCHEMISTRY"
+            ],
+            [
+                "ECBI1031",
+                "BIODESIGN"
+            ],
+            [
+                "BIOL502",
+                "BOTANY"
+            ],
+            [
+                "ECBI1040",
+                "PLANT HISTOLOGY AND ANATOMY"
+            ],
+            [
+                "BIOLEDB19",
+                "ELECTIVE - VIROLOGY"
+            ],
+            [
+                "ECBI-BIO-1102",
+                "SYNTHETIC BIOLOGY  "
+            ],
+            [
+                "ECBI1028",
+                "TRACK COURSE"
+            ],
+            [
+                "ECBI1017",
+                "HUMAN PHYSIOLOGY II AND ELECTROPHYSIOLOGY"
+            ],
+            [
+                "ECBI1037",
+                "BIOCHEMISTRY OF METABOLISM"
+            ],
+            [
+                "ECBI1041",
+                "BIOSTATISTICS"
+            ],
+            [
+                "ECBI1059",
+                "TRACK COURSE"
+            ],
+            [
+                "ECBI1025",
+                "TRACK COURSE"
+            ],
+            [
+                "ECBI1038",
+                "APPLIED MICROBIOLOGY"
+            ],
+            [
+                "ECBI1001",
+                "BIOLOGY I"
+            ],
+            [
+                "BIOLEDB04",
+                "ELECTIVE - CELLULAR AND TISSUE BIOTECHNOLOGY"
+            ],
+            [
+                "BIOLEDB07",
+                "ELECTIVE - ADVANCED EVOLUTION"
+            ],
+            [
+                "BIOLEGB04",
+                "PROFESSIONAL ELECTIVE IV"
+            ],
+            [
+                "ECBI1058",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "BIOLEDB08",
+                "ELECTIVE - ANIMAL EVOLUTION AND DIVERSITY"
+            ],
+            [
+                "BIOLEDB02",
+                "ELECTIVE - MARINE BIOLOGY"
+            ],
+            [
+                "BIOLEDB03",
+                "ELECTIVE - STRUCTURAL AND FUNCTIONAL BIOCHEMISTRY"
+            ],
+            [
+                "ECBI1015",
+                "BIOPHYSICS"
+            ],
+            [
+                "ECBI1021",
+                "BIOMATERIALS"
+            ],
+            [
+                "BIOLEDB30",
+                "ELECTIVE - NON-IONIZING RADIATIONS IN MEDICINE"
+            ],
+            [
+                "BIOLEGB01",
+                "PROFESSIONAL ELECTIVE I"
+            ],
+            [
+                "BIOLEDB16",
+                "ELECTIVE - APPLIED MICROBIOLOGY"
+            ],
+            [
+                "BIOLEDB14",
+                "ELECTIVE - INTRODUCTION TO GENETIC AND METABOLIC ENGINEERING"
+            ],
+            [
+                "BIOLEGB03",
+                "PROFESSIONAL ELECTIVE III"
+            ],
+            [
+                "ECBI1054",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "BIOLEDB10",
+                "ELECTIVE - PHYTO-PATHOLOGY"
+            ],
+            [
+                "BIOLEDB33",
+                "ELECTIVE - ORGANIC CHEMISTRY I"
+            ],
+            [
+                "ECBI1053",
+                "EVOLUTION"
+            ],
+            [
+                "BIOLEGB06",
+                "PROFESSIONAL ELECTIVE VI"
+            ],
+            [
+                "ECBI1008",
+                "CELL BIOLOGY"
+            ],
+            [
+                "BIOLEDB11",
+                "ELECTIVE - GENETICS OF POPULATIONS"
+            ],
+            [
+                "ECBI1006",
+                "BIOCHEMISTRY"
+            ],
+            [
+                "ECBI1044",
+                "PLANT PHISIOLOGY"
+            ],
+            [
+                "ECBI1043",
+                "ECOLOGY"
+            ],
+            [
+                "BIOLEDB27",
+                "ELECTIVE - BIOENVIRONMENTAL ENGINEERING"
+            ],
+            [
+                "ECBI1024",
+                "TRACK COURSE"
+            ],
+            [
+                "BIOL501",
+                "BIOCHEMISTRY"
+            ],
+            [
+                "ECBI1035",
+                "CELL BIOLOGY"
+            ],
+            [
+                "ECBI1048",
+                "MULTIVARIATE STATISTICAL ANALYSIS"
+            ],
+            [
+                "ECBI1003",
+                "GENERAL GENETICS"
+            ],
+            [
+                "ECBI1019",
+                "CLINICAL ENGINEERING"
+            ],
+            [
+                "ECBI1022",
+                "PATHOPHYSIOLOGY AND BIOMEDICAL EQUIPMENT"
+            ],
+            [
+                "ECBI1023",
+                "BIOIMAGING"
+            ],
+            [
+                "ECBI1005",
+                "MOLECULAR BIOLOGY"
+            ],
+            [
+                "BIOLEDB09",
+                "ELECTIVE - PLANT EVOLUTION AND DIVERSITY"
+            ],
+            [
+                "ECBI1030",
+                "TRACK COURSE"
+            ],
+            [
+                "ECBI1051",
+                "TROPICAL MEDICINE AND PARASITOLOGY"
+            ],
+            [
+                "BIOLEDB28",
+                "ELECTIVE - COMBINATORIAL BIOLOGY AND ITS APPLICATIONS "
+            ],
+            [
+                "ECBI1046",
+                "GENETIC ENGINEERING"
+            ],
+            [
+                "ECBI1055",
+                "TRACK COURSE"
+            ],
+            [
+                "ECBI-BIO-1110",
+                "MYCOLOGY"
+            ],
+            [
+                "ECBI1007",
+                "HUMAN HISTOLOGY AND ANATOMY"
+            ],
+            [
+                "BIOLEDB01",
+                "ELECTIVE - SYSTEMS BIOLOGY"
+            ],
+            [
+                "BIOLEDB26",
+                "ELECTIVE - SYNTHETIC BIOLOGY"
+            ],
+            [
+                "ECBI1004",
+                "MICROBIOLOGY"
+            ],
+            [
+                "ECBI1012",
+                "HUMAN PHYSIOLOGY I"
+            ],
+            [
+                "ECBI1060",
+                "TRACK COURSES"
+            ],
+            [
+                "BIOLEDB17",
+                "ELECTIVE - PARASITOLOGY"
+            ],
+            [
+                "ECBI1052",
+                "BIODIVERSITY AND SYSTEMATICS"
+            ],
+            [
+                "ECBI1027",
+                "TRACK COURSE"
+            ],
+            [
+                "ECBI1014",
+                "GENERAL ZOOLOGY"
+            ],
+            [
+                "BIOLEDB24",
+                "ELECTIVE - BIOLOGICAL TISSUE ENGINEERING"
+            ],
+            [
+                "ECBI1057",
+                "TRACK COURSE"
+            ],
+            [
+                "ECBI1047",
+                "IMMUNOLOGY"
+            ],
+            [
+                "ECBI1050",
+                "BIOINFORMATICS"
+            ],
+            [
+                "ECBI1029",
+                "TRACK COURSE"
+            ],
+            [
+                "ECBI1056",
+                "TRACK COURSE"
+            ],
+            [
+                "ECBI1026",
+                "RADIODIAGNOSIS AND RADIOTHERAPY"
+            ],
+            [
+                "BIOLEDB25",
+                "MEDICINAL CHEMISTRY"
+            ],
+            [
+                "BIOLEDB21",
+                "ELECTIVE - MULTIVARIATE STATISTICAL ANALYSIS"
+            ],
+            [
+                "BIOLEGB02",
+                "PROFESSIONAL ELECTIVE II"
+            ],
+            [
+                "BIOLEDB31",
+                "ELECTIVE - NANO BIOTECHNOLOGY"
+            ],
+            [
+                "ECBI1010",
+                "GENERAL MICROBIOLOGY"
+            ]
+        ],
+        "BIM": [
+            [
+                "BIOLEDD05",
+                "ELECTIVE - BIOSENSORS"
+            ],
+            [
+                "BIOLEDD07",
+                "ELECTIVE - FUNDAMENTALS OF MEDICAL DIAGNOSIS"
+            ],
+            [
+                "BIOL505",
+                "BIOPHYSICS"
+            ],
+            [
+                "BIOLEDD30",
+                "ELECTIVE - BIOENVIRONMENTAL ENGINEERING"
+            ],
+            [
+                "BIOLEDD13",
+                "ELECTIVE - BIOINORGANIC CHEMISTRY"
+            ],
+            [
+                "ECBI-BIM-1100",
+                "BIOSENSORS"
+            ],
+            [
+                "BIOLEDD10",
+                "ELECTIVE - MEDICAL IMAGE"
+            ],
+            [
+                "ECBI-BIM-1121",
+                "DESIGN OF BIOMEDICAL DEVICES"
+            ],
+            [
+                "BIOLEDD20",
+                "ELECTIVA - UNDERGRADUATE RESEARCH IN BIOLOGICAL ENGINEERING"
+            ],
+            [
+                "BIOLEDD19",
+                "ELECTIVE - MULTIVARIATE STATISTICAL ANALYSIS"
+            ],
+            [
+                "BIOLEDD26",
+                "ELECTIVE - PARASITOLOGY"
+            ],
+            [
+                "BIOLEDD27",
+                "ELECTIVE - MEDICATION ADMINISTRATION TECHNOLOGY"
+            ],
+            [
+                "BIOLEDD31",
+                "ELECTIVE - COMBINATORIAL BIOLOGY AND ITS APPLICATIONS "
+            ],
+            [
+                "BIOLEDD12",
+                "ELECTIVE - ARTIFICIAL LEARNING"
+            ],
+            [
+                "BIOLEDD25",
+                "ELECTIVE - GENETIC ENGINEERING AND BIOTECHNOLOGY"
+            ],
+            [
+                "BIOLEDD28",
+                "ELECTIVE - SYNTHETIC BIOLOGY"
+            ],
+            [
+                "BIOLEDD33",
+                "ELECTIVE - NON-IONIZING RADIATIONS IN MEDICINE"
+            ],
+            [
+                "BIOLEDD02",
+                "ELECTIVE - BASICS OF ROBOTICS AND BIONICS"
+            ],
+            [
+                "ECBI-BIM-1119",
+                "NEURAL NETWORKS"
+            ],
+            [
+                "BIOLEGD01",
+                "PROFESSIONAL ELECTIVE I"
+            ],
+            [
+                "ECBI-BIM-1116",
+                "MULTIVARIATE STATISTICAL ANALYSIS"
+            ],
+            [
+                "BIOLEGD07",
+                "PROFESSIONAL ELECTIVE VII"
+            ],
+            [
+                "ECBI1034",
+                "ARTIFICIAL INTELLIGENCE"
+            ],
+            [
+                "ECBI-BIM-1114",
+                "FLUID MECHANICS"
+            ],
+            [
+                "ECBI-BIM-1117",
+                "PUBLIC POLICIES"
+            ],
+            [
+                "BIOLEDD14",
+                "ELECTIVE - NEURAL NETWORKS"
+            ],
+            [
+                "ECBI-BIM-1102",
+                "POLYMERS"
+            ],
+            [
+                "ECBI-BIM-1106",
+                "TISSUE ENGINEERING"
+            ],
+            [
+                "ECBI-BIM-1120",
+                "MICROPROCESSORS"
+            ],
+            [
+                "BIOLEDD24",
+                "ELECTIVE - INTERNSHIP IN BIOMEDICAL SCIENCES"
+            ],
+            [
+                "BIOLEDD23",
+                "ELECTIVE - PROBLEMS IN BIOMEDICAL RESEARCH"
+            ],
+            [
+                "BIOLEGD02",
+                "PROFESSIONAL ELECTIVE II"
+            ],
+            [
+                "BIOLEDD06",
+                "ELECTIVE - ELECTRONICS"
+            ],
+            [
+                "BIOLEDD18",
+                "ELECTIVA - MEDICINAL CHEMISTRY"
+            ],
+            [
+                "BIOLEDD29",
+                "ELECTIVE - APPLIED MICROBIOLOGY"
+            ],
+            [
+                "ECBI-BIM-1104",
+                "PHARMACOLOGY & TOXICOLOGY"
+            ],
+            [
+                "BIOLEGD03",
+                "PROFESSIONAL ELECTIVE III"
+            ],
+            [
+                "BIOLEDD11",
+                "ELECTIVE - IMMUNOLOGY"
+            ],
+            [
+                "ECBI-BIM-1103",
+                "GENETIC ENGINEERING"
+            ],
+            [
+                "BIOLEDD17",
+                "ELECTIVE - MICROBIAL BIOTECHNOLOGY"
+            ],
+            [
+                "BIOLEGD08",
+                "PROFESSIONAL ELECTIVE VIII"
+            ],
+            [
+                "BIOLEGD04",
+                "PROFESSIONAL ELECTIVE IV"
+            ],
+            [
+                "BIOLEDD22",
+                "ELECTIVE - PRINCIPLES OF TOXICOLOGY"
+            ],
+            [
+                "ECBI-BIM-1118",
+                "ROBOTICS AND BIONICS"
+            ],
+            [
+                "BIOLEDD03",
+                "ELECTIVE - BIOLOGICAL TISSUE ENGINEERING"
+            ],
+            [
+                "BIOLEDD21",
+                "ELECTIVE - NEUROBIOLOGY"
+            ],
+            [
+                "ECBI-BIM-1101",
+                "DRUG DELIVERY SYSTEMS"
+            ],
+            [
+                "BIOLEGD06",
+                "PROFESSIONAL ELECTIVE VI"
+            ],
+            [
+                "ECBI-BIM-1128",
+                "NON-IONIZING RADIATION"
+            ],
+            [
+                "BIOLEDD09",
+                "ELECTIVE - PHARMACOLOGY AND GENERAL TOXICOLOGY"
+            ],
+            [
+                "BIOLEDD32",
+                "ELECTIVE - BIOENERGY"
+            ],
+            [
+                "BIOLEDD08",
+                "ELECTIVE - NANOMEDICINE"
+            ],
+            [
+                "BIOLEGD05",
+                "PROFESSIONAL ELECTIVE V"
+            ],
+            [
+                "BIOLEDD04",
+                "ELECTIVE - POLYMERS / MATERIALS PROCESSING "
+            ],
+            [
+                "BIOLEDD01",
+                "ELECTIVE - BIOMEDICAL DEVICES"
+            ]
+        ],
+        "MSCSIN": [
+            [
+                "BIOMSCSINT16",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "BIOMSCSINT14",
+                "MOLECULAR CLONING TECHNIQUES"
+            ],
+            [
+                "BIOMSCSINT06",
+                "ADVANCED CELL BIOLOGY"
+            ],
+            [
+                "BIOMSCSINT07",
+                "APPLIED BIOPHYSICS"
+            ],
+            [
+                "BIOMSCSINT17",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "BIOMSCSINT04",
+                "BIOSTATISTICS"
+            ],
+            [
+                "BIOMSCSINT05",
+                "ADVANCED ORGANIC CHEMISTRY"
+            ],
+            [
+                "BIOMSCSINT11",
+                "BIOINFORMATICS"
+            ],
+            [
+                "BIOMSCSINT15",
+                "SCIENTIFIC WRITING"
+            ],
+            [
+                "BIOMSCSINT09",
+                "RESEARCH AND EXPERIMENTAL DESIGN"
+            ],
+            [
+                "BIOMSCSINT08",
+                "APPLIED BIOCHEMISTRY"
+            ],
+            [
+                "BIOMSCSINT03",
+                "ADVANCED MICROBIOLOGY"
+            ],
+            [
+                "BIOMSCSINT02",
+                "SYNTHETIC BIOLOGY I"
+            ],
+            [
+                "BIOMSCSINT10",
+                "BIOSIGNALS"
+            ],
+            [
+                "BIOMSCSINT01",
+                "BIOETHICS"
+            ],
+            [
+                "BIOMSCSINT12",
+                "COMPUTATIONAL CHEMISTRY"
+            ],
+            [
+                "BIOMSCSINT13",
+                "SYNTHETIC BIOLOGY II"
+            ]
+        ]
+    },
+    "CIT": {
+        "MAT": [
+            [
+                "ECMC1065",
+                "FUNDAMENTALS OF MATHEMATICS"
+            ],
+            [
+                "MCSEEDM28",
+                "ELECTIVE - BAYESIAN STATISTICS"
+            ],
+            [
+                "MCSEEDM23",
+                "ELECTIVE - MACHINE LEARNING"
+            ],
+            [
+                "ECMC1001",
+                "LINEAR ALGEBRA"
+            ],
+            [
+                "MCSE901",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "MCSEEGM07",
+                "PROFESSIONAL ELECTIVE VII"
+            ],
+            [
+                "MCSEEDM25",
+                "ELECTIVE - ARTIFICIAL INTELLIGENCE"
+            ],
+            [
+                "MCSEEDM03",
+                "ELECTIVE - ALGEBRAIC GEOMETRY"
+            ],
+            [
+                "ECMC1055",
+                "WORKSHOP ON DIDACTICS OF MATHEMATICS"
+            ],
+            [
+                "MCSEEGM02",
+                "PROFESSIONAL ELECTIVE II"
+            ],
+            [
+                "ECMC1045",
+                "MEASURE THEORY AND INTEGRATION"
+            ],
+            [
+                "ECMC1061",
+                "COMPLEX ANALYSIS"
+            ],
+            [
+                "MCSEEGM04",
+                "PROFESSIONAL ELECTIVE IV"
+            ],
+            [
+                "MCSEEDM04",
+                "ELECTIVE - DIFFERENTIAL GEOMETRY"
+            ],
+            [
+                "ECMC1048",
+                "THEORY OF BOUNDED OPERATORS"
+            ],
+            [
+                "ECMC1050",
+                "LINEAR PROGRAMMING"
+            ],
+            [
+                "MCSEEGM06",
+                "PROFESSIONAL ELECTIVE VI"
+            ],
+            [
+                "MCSEEDM16",
+                "ELECTIVE - VARIATIONAL CALCULUS"
+            ],
+            [
+                "MCSEEGM01",
+                "PROFESSIONAL ELECTIVE I"
+            ],
+            [
+                "MCSEEGM09",
+                "PROFESSIONAL ELECTIVE IX"
+            ],
+            [
+                "ECMC1007",
+                "CALCULUS III"
+            ],
+            [
+                "MCSEEDM06",
+                "ELECTIVE - THEORY OF OPERATORS"
+            ],
+            [
+                "MCSEEGM05",
+                "PROFESSIONAL ELECTIVE V"
+            ],
+            [
+                "MCSEEDM11",
+                "ELECTIVE - NUMERICAL METHODS FOR PDE'S"
+            ],
+            [
+                "MCSEEDM10",
+                "ELECTIVE - FINANCIAL MATHEMATICS"
+            ],
+            [
+                "ECMC1004",
+                "DIFFERENTIAL EQUATIONS"
+            ],
+            [
+                "ECMC1067",
+                "LINEAR AND MULTILINEAR ALGEBRA"
+            ],
+            [
+                "MCSEEDM31",
+                "ELECTIVE - ADVANCED TOPICS IN PARTIAL DIFFERENTIAL EQUATIONS"
+            ],
+            [
+                "ECMC1044",
+                "FUNCTIONAL ANALYSIS I"
+            ],
+            [
+                "ECMC1005",
+                "STATISTICS AND PROBABILITY"
+            ],
+            [
+                "MCSEEDM30",
+                "ELECTIVE - COMPUTATIONAL GEOMETRY"
+            ],
+            [
+                "MCSEEGM03",
+                "PROFESSIONAL ELECTIVE III"
+            ],
+            [
+                "ECMC1009",
+                "HIGHER MATHEMATICS FOR ENGINEERING"
+            ],
+            [
+                "ECMC1049",
+                "PARTIAL DIFFERENTIAL EQUATIONS"
+            ],
+            [
+                "MCSEEDM07",
+                "ELECTIVE - TOPOLOGY"
+            ],
+            [
+                "MCSEEDM17",
+                "ELECTIVE - STOCHASTIC PROCESSES"
+            ],
+            [
+                "ECMC1068",
+                "ALGORITHM ANALYSIS"
+            ],
+            [
+                "ECMC1054",
+                "TRACK ELECTIVE II"
+            ],
+            [
+                "ECMC1047",
+                "COMPLEMENTS OF ORDINARY DIFFERENTIAL EQUATIONS"
+            ],
+            [
+                "ECMC1043",
+                "ADVANCED PROGRAMMING"
+            ],
+            [
+                "ECMC1058",
+                "TRACK ELECTIVE IV"
+            ],
+            [
+                "MCSEEDM15",
+                "ELECTIVE - HARMONIC ANALYSIS"
+            ],
+            [
+                "MCSEEDM02",
+                "ELECTIVE - COMPLEX ANALYSIS"
+            ],
+            [
+                "MCSEEDM18",
+                "ELECTIVE - APPROXIMATION THEORY"
+            ],
+            [
+                "MCSEEDM20",
+                "ELECTIVE - REAL ANALYSIS"
+            ],
+            [
+                "MCSEEDM33",
+                "ELECTIVE - COMPUTER ARCHITECTURE"
+            ],
+            [
+                "ECMC1053",
+                "TRACK ELECTIVE I"
+            ],
+            [
+                "MCSE801",
+                "PARTIAL DIFFERENTIAL EQUATIONS"
+            ],
+            [
+                "MCSEEDM21",
+                "ELECTIVE - MULTIVARIATE STATISTICAL ANALYSIS"
+            ],
+            [
+                "MCSEEDM24",
+                "ELECTIVE - CRYPTOGRAPHY"
+            ],
+            [
+                "ECMC1057",
+                "TRACK ELECTIVE III"
+            ],
+            [
+                "ECMC1041",
+                "LINEAR NUMERICAL ANALYSIS"
+            ],
+            [
+                "MCSEEDM08",
+                "ELECTIVE - OPTIMAL CONTROL"
+            ],
+            [
+                "MCSEEDM01",
+                "ELECTIVE - ABSTRACT ALGEBRA"
+            ],
+            [
+                "MCSEEGM11",
+                "PROFESSIONAL ELECTIVE XI"
+            ],
+            [
+                "MCSEEDM32",
+                "ELECTIVE - TOPICS ON OPTIMIZATION"
+            ],
+            [
+                "MCSE1001",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "ECMC1040",
+                "ABSTRACT ALGEBRA"
+            ],
+            [
+                "ECMC1002",
+                "CALCULUS I"
+            ],
+            [
+                "ECMC1066",
+                "INTRODUCTION TO PROGRAMMING"
+            ],
+            [
+                "MCSEEDM22",
+                "ELECTIVE - CONTINUOUS OPTIMIZATION"
+            ],
+            [
+                "ECMC1051",
+                "THEORY OF COMPUTATION"
+            ],
+            [
+                "MCSEEDM35",
+                "ELECTIVE - PUBLIC POLICIES IN SCIENCE AND TECHNOLOGY"
+            ],
+            [
+                "MCSEEDM27",
+                "ELECTIVE - NEURAL NETWORKS"
+            ],
+            [
+                "ECMC1056",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "ECMC1008",
+                "INTRODUCTION TO PROGRAMMING"
+            ],
+            [
+                "ECMC1039",
+                "REAL ANALYSIS"
+            ],
+            [
+                "MCSEEDM12",
+                "ELECTIVE - ADVANCED OPTIMIZATION"
+            ],
+            [
+                "MCSEEGM10",
+                "PROFESSIONAL ELECTIVE X"
+            ],
+            [
+                "MCSEEDM26",
+                "ELECTIVE - FUNCTIONAL PROGRAMMING"
+            ],
+            [
+                "MCSEEDM14",
+                "ELECTIVE - INVERSE PROBLEMS"
+            ],
+            [
+                "MCSEEDM13",
+                "ELECTIVE - DISCRETE OPTIMIZATION"
+            ],
+            [
+                "ECMC1003",
+                "CALCULUS II"
+            ],
+            [
+                "ECMC1069",
+                "ARTIFICIAL INTELLIGENCE"
+            ],
+            [
+                "MCSEEDM09",
+                "ELECTIVE - OPERATIONS RESEARCH"
+            ],
+            [
+                "MCSEEDM34",
+                "ELECTIVE - FUNDAMENTALS OF PROGRAMMING"
+            ],
+            [
+                "MCSEEDM05",
+                "ELECTIVE - NUMBER THEORY"
+            ],
+            [
+                "ECMC1006",
+                "NUMERICAL METHODS"
+            ],
+            [
+                "MCSETUT",
+                "MATH TUTORING"
+            ],
+            [
+                "ECMC1052",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "ECMC1010",
+                "ARTIFICIAL INTELLIGENCE"
+            ],
+            [
+                "MCSEEDM29",
+                "ELECTIVE - DESIGN OF EXPERIMENTS"
+            ],
+            [
+                "ECMC1046",
+                "PROBABILITY THEORY"
+            ],
+            [
+                "MCSEEGM08",
+                "PROFESSIONAL ELECTIVE VIII"
+            ],
+            [
+                "ECMC1042",
+                "TOPOLOGY"
+            ]
+        ],
+        "ITE": [
+            [
+                "MCSEEDT03",
+                "ELECTIVE - PROGRAMMING LANGUAGES"
+            ],
+            [
+                "MCSEEDT18",
+                "ELECTIVE - ARTIFICIAL INTELLIGENCE"
+            ],
+            [
+                "MCSEEDT19",
+                "ELECTIVE - IMAGE PROCESSING"
+            ],
+            [
+                "MCSEEDT12",
+                "ELECTIVE - COMPUTER SECURITY"
+            ],
+            [
+                "MCSEEGT09",
+                "PROFESSIONAL ELECTIVE IX"
+            ],
+            [
+                "MCSEEDT02",
+                "ELECTIVE - WEB SERVICES MANAGEMENT"
+            ],
+            [
+                "MCSEEDT16",
+                "ELECTIVE - GRAPHIC COMPUTING"
+            ],
+            [
+                "MCSEEDT01",
+                "ELECTIVE - DATABASE MANAGEMENT"
+            ],
+            [
+                "MCSEEGT04",
+                "PROFESSIONAL ELECTIVE IV"
+            ],
+            [
+                "MCSEEDT26",
+                "ELECTIVE - HIGH PERFORMANCE COMPUTING"
+            ],
+            [
+                "MCSEEDT22",
+                "ELECTIVE - COMPUTATIONAL GEOMETRY"
+            ],
+            [
+                "MCSEEDT13",
+                "ELECTIVE - OPERATING SYSTEMS II"
+            ],
+            [
+                "MCSEEDT25",
+                "ELECTIVE - MOBILE AND WIRELESS NETWORKS"
+            ],
+            [
+                "MCSEEGT07",
+                "PROFESSIONAL ELECTIVE VII"
+            ],
+            [
+                "MCSEEGT02",
+                "PROFESSIONAL ELECTIVE II"
+            ],
+            [
+                "MCSEEDT14",
+                "ELECTIVE - CODIFICATION THEORY"
+            ],
+            [
+                "MCSEEGT10",
+                "PROFESSIONAL ELECTIVE X"
+            ],
+            [
+                "MCSEEDT10",
+                "ELECTIVE - MOBILE NETWORKS DESIGN"
+            ],
+            [
+                "MCSEEDT11",
+                "ELECTIVE - WEB DESIGN"
+            ],
+            [
+                "MCSEEDT07",
+                "ELECTIVE - SOFTWARE SECURITY"
+            ],
+            [
+                "MCSEEDT09",
+                "ELECTIVE - COMPUTER ARCHITECTURE II"
+            ],
+            [
+                "MCSEEGT11",
+                "PROFESSIONAL ELECTIVE XI"
+            ],
+            [
+                "MCSEEDT06",
+                "ELECTIVE - WEB PROGRAMMING"
+            ],
+            [
+                "MCSEEGT03",
+                "PROFESSIONAL ELECTIVE III"
+            ],
+            [
+                "MCSEEDT20",
+                "ELECTIVE - NEURAL NETWORKS"
+            ],
+            [
+                "MCSEEDT27",
+                "ELECTIVE - PUBLIC POLICIES IN SCIENCE AND TECHNOLOGY"
+            ],
+            [
+                "MCSEEDT21",
+                "ELECTIVE - COMPUTATIONAL VISION"
+            ],
+            [
+                "MCSEEGT08",
+                "PROFESSIONAL ELECTIVE VIII"
+            ],
+            [
+                "MCSEEDT24",
+                "ELECTIVE - STOCHASTIC PROCESSES"
+            ],
+            [
+                "MCSEEGT05",
+                "PROFESSIONAL ELECTIVE V"
+            ],
+            [
+                "MCSEEDT04",
+                "ELECTIVE - CONCURRENT PROGRAMMING"
+            ],
+            [
+                "MCSEEGT06",
+                "PROFESSIONAL ELECTIVE VI"
+            ],
+            [
+                "MCSEEGT01",
+                "PROFESSIONAL ELECTIVE I"
+            ],
+            [
+                "MCSEEDT17",
+                "ELECTIVE - CRYPTOGRAPHY"
+            ],
+            [
+                "MCSEEDT23",
+                "ELECTIVE - MULTIVARIATE STATISTICAL ANALYSIS"
+            ],
+            [
+                "MCSEEDT15",
+                "ELECTIVE - MACHINE LEARNING"
+            ],
+            [
+                "MCSEEDT28",
+                "ELECTIVE - BAYESIAN STATISTICS"
+            ],
+            [
+                "MCSEEDT05",
+                "ELECTIVE - FUNCTIONAL PROGRAMMING"
+            ],
+            [
+                "MCSEEDT08",
+                "ELECTIVE - NETWORKS AND SYSTEMS MANAGEMENT"
+            ]
+        ],
+        "COM": [
+            [
+                "ECMC1013",
+                "MATHEMATICAL LOGIC AND COMPUTATION"
+            ],
+            [
+                "ECMC1027",
+                "TRACK COURSE II"
+            ],
+            [
+                "ECMC1036",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "ECMC1020",
+                "DATABASES"
+            ],
+            [
+                "ECMC1014",
+                "LINEAR AND MULTILINEAR ALGEBRA"
+            ],
+            [
+                "ECMC1032",
+                "TRACK COURSE VI"
+            ],
+            [
+                "ECMC1033",
+                "TRACK COURSE VII"
+            ],
+            [
+                "ECMC1011",
+                "DISCRETE MATHEMATICS"
+            ],
+            [
+                "ECMC1023",
+                "NETWORKS"
+            ],
+            [
+                "ECMC1028",
+                "TRACK COURSE III"
+            ],
+            [
+                "ECMC1029",
+                "TRACK COURSE IV"
+            ],
+            [
+                "ECMC1031",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "ECMC1021",
+                "OPERATING SYSTEMS"
+            ],
+            [
+                "ECMC1035",
+                "TRACK COURSE IX"
+            ],
+            [
+                "ECMC1030",
+                "TRACK COURSE V"
+            ],
+            [
+                "ECMC1018",
+                "ANALYSIS OF ALGORITHMS"
+            ],
+            [
+                "ECMC1024",
+                "SOFTWARE ENGINEERING"
+            ],
+            [
+                "ECMC1037",
+                "WRITING A SCIENTIFIC PROJECT"
+            ],
+            [
+                "ECMC1022",
+                "OPTIMIZATION METHODS"
+            ],
+            [
+                "ECMC1025",
+                "TRACK COURSE I"
+            ],
+            [
+                "ECMC1012",
+                "ELECTRONICS"
+            ],
+            [
+                "ECMC1015",
+                "ADVANCED PROGRAMMING"
+            ],
+            [
+                "ECMC1026",
+                "THEORY OF COMPUTATION"
+            ],
+            [
+                "ECMC1034",
+                "TRACK COURSE VIII"
+            ],
+            [
+                "ECMC1019",
+                "DISTRIBUTED SYSTEMS"
+            ]
+        ],
+        "GEO": [
+            [
+                "ECMC1072",
+                "NUMERICAL METHODS"
+            ]
+        ]
+    },
+    "CQI": {
+        "CHE": [
+            [
+                "CHEMEGC03",
+                "PROFESSIONAL ELECTIVE III"
+            ],
+            [
+                "CHEMEDC22",
+                "ELECTIVE - SYMMETRY AND GROUP THEORY IN CHEMISTRY"
+            ],
+            [
+                "CHEMEDC15",
+                "ELECTIVE - NUCLEAR CHEMISTRY"
+            ],
+            [
+                "ECQI-CHEM-1155",
+                "FLOW ASSURANCE"
+            ],
+            [
+                "CHEMEDC20",
+                "ELECTIVE - CHROMATOGRAPHIC TECHNIQUES"
+            ],
+            [
+                "ECQI-CHEM-1116",
+                "SPECIAL TOPICS IN COMPUTATIONAL PHYSICS"
+            ],
+            [
+                "ECQI-CHEM-1141",
+                "WASTEWATER TREATMENT PLANT DESIGN"
+            ],
+            [
+                "ECQI-CHEM-1145",
+                "WASTEWATER TREATMENTE"
+            ],
+            [
+                "CHEMEDC32",
+                "ELECTIVE - ENVIRONMENTAL MANAGEMENT"
+            ],
+            [
+                "ECQI-CHEM-1144",
+                "CONVENTIONAL AND NON-CONVENTIONAL ENERGY"
+            ],
+            [
+                "ECQI1030",
+                "TRACK COURSE"
+            ],
+            [
+                "ECQI1026",
+                "TRACK COURSE"
+            ],
+            [
+                "ECQI1033",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "ECQI-CHEM-1125",
+                "CATALYSIS IN ORGANIC SYNTHESIS"
+            ],
+            [
+                "ECQI-CHEM-1140",
+                "HYBRID CHROMATOGRAPHIC TECHNIQUES"
+            ],
+            [
+                "ECQI-CHEM-1118",
+                "INTRODUCTION TO ASTROPHYSICS AND COSMOLOGY"
+            ],
+            [
+                "ECQI-CHEM-1104",
+                "SUPRAMOLECULAR CHEMISTRY"
+            ],
+            [
+                "ECQI1031",
+                "TRACK COURSE"
+            ],
+            [
+                "ECQI-CHEM-1113",
+                "FUNDAMENTALS OF PROGRAMMING"
+            ],
+            [
+                "ECQI-CHEM-1120",
+                "NANOFABRICATION LABORATORY"
+            ],
+            [
+                "ECQI-CHEM-1139",
+                "STRUCTURAL ANALYSIS"
+            ],
+            [
+                "ECQI-CHEM-1156",
+                "NATURAL RESOURCE VALUATION"
+            ],
+            [
+                "ECQI-CHEM-1126",
+                "CHEMISTRY AND BIOCHEMISTRY OF FOODS"
+            ],
+            [
+                "CHEMEDC06",
+                "ELECTIVE - BIOMEDICAL ENGINEERING"
+            ],
+            [
+                "CHEMEDC14",
+                "ELECTIVE - MEDICAL CHEMISTRY AND CORROSION OF MATERIALS"
+            ],
+            [
+                "CHEMEGC05",
+                "PROFESSIONAL ELECTIVE V"
+            ],
+            [
+                "ECQI1032",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "ECQI-CHEM-1146",
+                "GENETIC ENGINEERING AND BIOTECHNOLOGY"
+            ],
+            [
+                "CHEMEDC09",
+                "ELECTIVE - METALLURGY AND PREPARATION OF MATERIALS"
+            ],
+            [
+                "CHEMEGC04",
+                "PROFESSIONAL ELECTIVE IV"
+            ],
+            [
+                "ECQI-CHEM-1108",
+                "DFT APPLIED TO CHEMISTRY"
+            ],
+            [
+                "CHEMEDC10",
+                "ELECTIVE - POLYMERS"
+            ],
+            [
+                "ECQI-CHEM-1143",
+                "SOIL CHEMISTRY"
+            ],
+            [
+                "CHEMEDC17",
+                "ELECTIVE - CHEMISTRY AND BIOCHEMISTRY OF FOOD"
+            ],
+            [
+                "CHEMEDC27",
+                "ELECTIVE - MEDICINAL CHEMISTRY"
+            ],
+            [
+                "ECQI-CHEM-1121",
+                "INTRODUCTION TO GREEN CHEMISTRY"
+            ],
+            [
+                "CHEMEDC35",
+                "ELECTIVE - APPLIED ELECTROCHEMISTRY "
+            ],
+            [
+                "ECQI-CHEM-1130",
+                "ORGANIC STEREOCHEMISTRY"
+            ],
+            [
+                "ECQI-CHEM-1100",
+                "COLLOIDS"
+            ],
+            [
+                "ECQI-CHEM-1138",
+                "METABOLISM"
+            ],
+            [
+                "CHEMEDC19",
+                "ELECTIVE - ORGANIC SYNTHESIS"
+            ],
+            [
+                "ECQI-CHEM-1128",
+                "SELECTED TOPICS IN ORGANIC SYNTHESIS"
+            ],
+            [
+                "ECQI1017",
+                "TRACK COURSE"
+            ],
+            [
+                "CHEMEDC12",
+                "ELECTIVE - FORENSIC ANALYTIC CHEMISTRY"
+            ],
+            [
+                "ECQI-CHEM-1101",
+                "SYMMETRY AND GROUP THEORY IN CHEMISTRY"
+            ],
+            [
+                "CHEMEDC34",
+                "ELECTIVE - PROPERTIES AND CHARACTERIZATION"
+            ],
+            [
+                "ECQI-CHEM-1137",
+                "FORENSIC ANALYTICAL CHEMISTRY"
+            ],
+            [
+                "CHEMEDC29",
+                "ELECTIVE - COMPUTATIONAL PHYSICS I"
+            ],
+            [
+                "CHEMEDC21",
+                "ELECTIVE - INSTRUMENTAL TECHNIQUES OF ADVANCED ANALYSIS"
+            ],
+            [
+                "ECQI-CHEM-1115",
+                "SPECIAL TOPICS ON MATERIALS SCIENCE AND TECHNOLOGY"
+            ],
+            [
+                "ECQI-CHEM-1119",
+                "SPECIAL TOPICS IN QUANTUM INFORMATION"
+            ],
+            [
+                "CHEMEGC01",
+                "PROFESSIONAL ELECTIVE I"
+            ],
+            [
+                "CHEMEGC02",
+                "PROFESSIONAL ELECTIVE II"
+            ],
+            [
+                "ECQI-CHEM-1102",
+                "TECHNOLOGY FOR CHEMISTRY"
+            ],
+            [
+                "ECQI-CHEM-1142",
+                "INDUSTRIAL PROCESS ANALYSIS"
+            ],
+            [
+                "CHEM1001",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "ECQI-CHEM-1127",
+                "FRONTIERS IN CHEMICAL BIOLOGY"
+            ],
+            [
+                "ECQI1029",
+                "TRACK COURSE"
+            ],
+            [
+                "ECQI-CHEM-1103",
+                "SPECTROSCOPY"
+            ],
+            [
+                "CHEMEDC05",
+                "ELECTIVE - STEREOCHEMISTRY"
+            ],
+            [
+                "ECQI1027",
+                "TRACK COURSE"
+            ],
+            [
+                "CHEMEDC36",
+                "ELECTIVE - ENGINEERING PROJECT MANAGEMENT"
+            ],
+            [
+                "CHEMEDC11",
+                "ELECTIVE - NATURAL PRODUCTS"
+            ],
+            [
+                "CHEMEDC01",
+                "ELECTIVE - ORGANIC STRUCTURAL ANALYSIS"
+            ],
+            [
+                "ECQI-CHEM-1129",
+                "ORGANOMETALLIC CHEMISTRY"
+            ],
+            [
+                "CHEMEDC24",
+                "ELECTIVE - GENETIC ENGINEERING AND BIOTECHNOLOGY"
+            ],
+            [
+                "ECQI-CHEM-1135",
+                "BIOINORGANIC CHEMISTRY"
+            ],
+            [
+                "CHEMEDC23",
+                "ELECTIVE - COLLOIDS"
+            ],
+            [
+                "ECQI-CHEM-1110",
+                "CRYSTALLOGRAPHY AND MINERALOGY"
+            ],
+            [
+                "ECQI-CHEM-1114",
+                "X-RAY SPECTROSCOPY"
+            ],
+            [
+                "ECQI-CHEM-1122",
+                "APPLIED ELECTROCHEMISTRY"
+            ],
+            [
+                "CHEMEDC03",
+                "ELECTIVE - CATALYSIS IN ORGANIC SYNTHESIS"
+            ],
+            [
+                "CHEM809",
+                "BIOCHEMISTRY"
+            ],
+            [
+                "CHEMEDC28",
+                "ELECTIVE - SPECTROSCOPY I"
+            ],
+            [
+                "ECQI1028",
+                "TRACK COURSE"
+            ],
+            [
+                "CHEMEDC18",
+                "ELECTIVE - CELLULAR RECEPTORS"
+            ],
+            [
+                "ECQI-CHEM-1136",
+                "NATURAL PRODUCTS"
+            ],
+            [
+                "CHEMEDC07",
+                "ELECTIVE - INTRODUCTION TO ENVIRONMENTAL CHEMISTRY"
+            ],
+            [
+                "CHEM710",
+                "PHYSICAL CHEMISTRY II"
+            ],
+            [
+                "CHEMEDC04",
+                "ELECTIVE - ELECTRONIC PARAMAGNETIC RESONANCE SPECTROSCOPY"
+            ],
+            [
+                "CHEMEDC16",
+                "ELECTIVE - ORGANOMETALLIC CHEMISTRY"
+            ],
+            [
+                "ECQI-CHEM-1111",
+                "METALLIC AND NON-METALLIC MINERAL DEPOSITS"
+            ],
+            [
+                "CHEMEDC02",
+                "ELECTIVE - CHEMICAL ANALYSIS AND QUALITY CONTROL"
+            ],
+            [
+                "ECQI-CHEM-1112",
+                "NUMERICAL METHODS"
+            ],
+            [
+                "CHEMEDC08",
+                "ELECTIVE - MOLECULAR MATERIALS AND CHEMICAL NANOTECHNOLOGY"
+            ],
+            [
+                "ECQI-CHEM-1133",
+                "ANALYSIS AND MOLECULAR CHARACTERIZATION OF ORGANIC COMPOUNDS BY SPECTROSCOPIC METHODS"
+            ],
+            [
+                "ECQI-CHEM-1107",
+                "POLYMER PROPERTIES AND CHARACTERIZATION"
+            ],
+            [
+                "ECQI-CHEM-1109",
+                "BIOMATERIALS"
+            ],
+            [
+                "ECQI-CHEM-1106",
+                "POLYMERS"
+            ],
+            [
+                "ECQI-CHEM-1124",
+                "INTRODUCTION TO ENVIRONMENTAL CHEMISTRY"
+            ],
+            [
+                "ECQI-CHEM-1131",
+                "CHEMOMETRICS"
+            ],
+            [
+                "ECQI-CHEM-1147",
+                "ELECTRONIC MICROSCOPY"
+            ],
+            [
+                "ECQI-CHEM-1149",
+                "BIOPHYSICS"
+            ],
+            [
+                "ECQI1016",
+                "TRACK COURSE"
+            ],
+            [
+                "ECQI-CHEM-1134",
+                "ATOMIC ABSORPTION AND EMISSION SPECTROSCOPY"
+            ],
+            [
+                "ECQI-CHEM-1105",
+                "METALLURGY AND MATERIAL PREPARATION"
+            ],
+            [
+                "CHEMEDC25",
+                "ELECTIVE - BIOINORGANIC CHEMISTRY"
+            ],
+            [
+                "ECQI-CHEM-1123",
+                "MEDICINAL CHEMISTRY"
+            ],
+            [
+                "CHEMEDC26",
+                "ELECTIVE - DESIGN AND DEVELOPMENT OF CHEMICAL EXPERIMENTS"
+            ]
+        ],
+        "PET": [
+            [
+                "CHEMEDP08",
+                "ELECTIVE - INTRODUCTION TO PROCESSING"
+            ],
+            [
+                "CHEMEDP05",
+                "ELECTIVE - COMPUTER AIDED TECHNICAL DESIGN"
+            ],
+            [
+                "CHEMEDP20",
+                "ELECTIVE - MATERIALS MODELING AND SIMULATION"
+            ],
+            [
+                "CHEMEDP04",
+                "ELECTIVE - INDUSTRIAL PROJECTS DESIGN"
+            ],
+            [
+                "CHEMEDP09",
+                "ELECTIVE - NEW MATERIALS FOR THE PETROCHEMICAL INDUSTRY"
+            ],
+            [
+                "CHEMEDP25",
+                "ELECTIVE - ECONOMIC TECHNICAL EVALUATION OF ENGINEERING PROJECTS"
+            ],
+            [
+                "CHEMEDP11",
+                "ELECTIVE - INDUSTRIAL PROCESSES"
+            ],
+            [
+                "CHEMEDP16",
+                "ELECTIVE - MATHEMATICAL AND COMPUTATIONAL METHODS IN CHEMICAL ENGINEERING"
+            ],
+            [
+                "CHEMEDP17",
+                "ELECTIVE - NANO-CATALYSIS"
+            ],
+            [
+                "CHEMEGP05",
+                "PROFESSIONAL ELECTIVE V"
+            ],
+            [
+                "CHEMEDP23",
+                "ELECTIVE - SPECIAL TOPICS IN SCIENCE OF MATERIALS"
+            ],
+            [
+                "CHEMEDP21",
+                "ELECTIVE - PROCESS SIMULATION TECHNIQUES"
+            ],
+            [
+                "CHEMEDP18",
+                "ELECTIVE - FINE CHEMISTRY AND INDUSTRIAL VALORIZATION OF MATERIALS"
+            ],
+            [
+                "CHEMEDP30",
+                "ELECTIVE - PROCESS DESIGN"
+            ],
+            [
+                "CHEMEDP34",
+                "ELECTIVE - PROPERTIES AND CHARACTERIZATION"
+            ],
+            [
+                "CHEMEDP10",
+                "ELECTIVE - CATALYTIC PROCESSES FOR REFINING AND PETRO CHEMISTRY"
+            ],
+            [
+                "CHEMEDP03",
+                "ELECTIVE - BIO CATALYSIS APPLIED TO INDUSTRY"
+            ],
+            [
+                "CHEMEGP01",
+                "PROFESSIONAL ELECTIVE I"
+            ],
+            [
+                "CHEMEGP04",
+                "PROFESSIONAL ELECTIVE IV"
+            ],
+            [
+                "CHEMEDP28",
+                "ELECTIVE - CONVENTIONAL AND NON-CONVENTIONAL ENERGIES"
+            ],
+            [
+                "CHEMEDP07",
+                "ELECTIVE - INTRODUCTION TO ENVIRONMENTAL AND ATMOSPHERIC CHEMISTRY"
+            ],
+            [
+                "CHEMEDP14",
+                "ELECTIVE - MECHANICAL BEHAVIOR OF MATERIALS"
+            ],
+            [
+                "CHEMEDP19",
+                "ELECTIVE - RECYCLING, RECOVERY AND CONVERSION OF WASTE"
+            ],
+            [
+                "CHEMEDP32",
+                "ELECTIVE - ENVIRONMENTAL MANAGEMENT"
+            ],
+            [
+                "CHEMEGP06",
+                "PROFESSIONAL ELECTIVE VI"
+            ],
+            [
+                "CHEMEDP02",
+                "ELECTIVE - ECONOMIC AND PROFITABILITY ANALYSIS OF INDUSTRIAL PROCESSES"
+            ],
+            [
+                "CHEMEDP13",
+                "ELECTIVE - KINETICS OF INDUSTRIAL PROCESSES"
+            ],
+            [
+                "CHEMEDP01",
+                "ELECTIVE - ANALYSIS OF PETROCHEMICAL PROCESSES"
+            ],
+            [
+                "CHEMEDP22",
+                "ELECTIVE - TECHNOLOGIES AND ENGINEERING OF MATERIALS DESIGN"
+            ],
+            [
+                "CHEMEDP31",
+                "ELECTIVE - COMPUTATIONAL PHYSICS I"
+            ],
+            [
+                "CHEMEDP15",
+                "ELECTIVE - ENGINEERING PROJECTS MANAGEMENT"
+            ],
+            [
+                "CHEMEDP24",
+                "ELECTIVE - HYDRAULIC ENERGY AND ELECTRONIC TECHNOLOGY"
+            ],
+            [
+                "CHEMEGP03",
+                "PROFESSIONAL ELECTIVE III"
+            ],
+            [
+                "CHEMEDP33",
+                "ELECTIVE - POLYMERS"
+            ],
+            [
+                "CHEMEDP06",
+                "ELECTIVE - FUNDAMENTALS, MODELING AND ANALYSIS OF CHROMATOGRAPHIC SEPARATION SYSTEMS"
+            ],
+            [
+                "CHEMEDP26",
+                "ELECTIVE - CHEMICAL PROCESSES"
+            ],
+            [
+                "CHEMEGP02",
+                "PROFESSIONAL ELECTIVE II"
+            ],
+            [
+                "CHEMEDP12",
+                "ELECTIVE - HETEROGENIC CATALYSIS"
+            ]
+        ],
+        "POL": [
+            [
+                "CHEMEDO27",
+                "ELECTIVE - PROCESS DESIGN"
+            ],
+            [
+                "CHEMEDO09",
+                "ELECTIVE - KINETICS OF INDUSTRIAL PROCESSES"
+            ],
+            [
+                "CHEMEDO18",
+                "ELECTIVE - TECHNOLOGIES AND ENGINEERING OF MATERIALS DESIGN"
+            ],
+            [
+                "CHEMEGO03",
+                "PROFESSIONAL ELECTIVE III"
+            ],
+            [
+                "CHEMEDO07",
+                "ELECTIVE - THERMODYNAMICS II AND KINETICS"
+            ],
+            [
+                "CHEMEDO15",
+                "ELECTIVE - RECYCLING, RECOVERY AND CONVERSION OF WASTE"
+            ],
+            [
+                "CHEMEDO17",
+                "ELECTIVE - PROCESS SIMULATION TECHNIQUES"
+            ],
+            [
+                "CHEMEDO01",
+                "ELECTIVE - SPECIAL APPLICATIONS OF POLYMERS"
+            ],
+            [
+                "CHEMEGO01",
+                "PROFESSIONAL ELECTIVE I"
+            ],
+            [
+                "CHEMEDO12",
+                "ELECTIVE - MATHEMATICAL AND COMPUTATIONAL METHODS IN CHEMICAL ENGINEERING"
+            ],
+            [
+                "CHEMEDO10",
+                "ELECTIVE - MECHANICAL BEHAVIOR OF MATERIALS"
+            ],
+            [
+                "CHEMEDO16",
+                "ELECTIVE - MATERIALS MODELING AND SIMULATION"
+            ],
+            [
+                "CHEMEGO04",
+                "PROFESSIONAL ELECTIVE IV"
+            ],
+            [
+                "CHEMEDO08",
+                "ELECTIVE - HETEROGENIC CATALYSIS"
+            ],
+            [
+                "CHEMEGO08",
+                "PROFESSIONAL ELECTIVE VIII"
+            ],
+            [
+                "CHEMEGO05",
+                "PROFESSIONAL ELECTIVE V"
+            ],
+            [
+                "CHEMEDO04",
+                "ELECTIVE - POLYMERIC NANOCOMPOSITES"
+            ],
+            [
+                "CHEMEGO02",
+                "PROFESSIONAL ELECTIVE II"
+            ],
+            [
+                "CHEMEDO14",
+                "ELECTIVE - FINE CHEMISTRY AND INDUSTRIAL VALORIZATION OF MATERIALS"
+            ],
+            [
+                "CHEMEDO05",
+                "ELECTIVE - POLIOLEPHINES AND POLYMERS"
+            ],
+            [
+                "CHEMEDO26",
+                "ELECTIVE - ENVIRONMENTAL MANAGEMENT"
+            ],
+            [
+                "CHEMEGO06",
+                "PROFESSIONAL ELECTIVE VI"
+            ],
+            [
+                "CHEMEDO06",
+                "ELECTIVE - COATINGS WITH POLYMERS"
+            ],
+            [
+                "CHEMEDO03",
+                "ELECTIVE - PHYSICAL - CHEMISTRY OF MACROMOLECULAR SOLUTIONS"
+            ],
+            [
+                "CHEMEDO02",
+                "ELECTIVE - LIQUID CRYSTALS"
+            ],
+            [
+                "CHEMEDO13",
+                "ELECTIVE - NANO-CATALYSIS"
+            ],
+            [
+                "CHEMEDO25",
+                "ELECTIVE - COMPUTER AIDED TECHNICAL DESIGN"
+            ],
+            [
+                "CHEMEDO21",
+                "ELECTIVE - ECONOMIC TECHNICAL EVALUATION OF ENGINEERING PROJECTS"
+            ],
+            [
+                "CHEMEDO11",
+                "ELECTIVE - ENGINEERING PROJECTS MANAGEMENT"
+            ],
+            [
+                "CHEMEDO32",
+                "ELECTIVE - INDUSTRIAL SECURITY"
+            ],
+            [
+                "CHEMEDO22",
+                "ELECTIVE - HYDRAULIC ENERGY AND ELECTRONIC TECHNOLOGY"
+            ],
+            [
+                "CHEMEDO24",
+                "ELECTIVE - CONVENTIONAL AND NON-CONVENTIONAL ENERGIES"
+            ],
+            [
+                "CHEMEDO31",
+                "ELECTIVE - PROPERTIES AND CHARACTERIZATION"
+            ],
+            [
+                "CHEMEGO07",
+                "PROFESSIONAL ELECTIVE VII"
+            ],
+            [
+                "CHEMEDO19",
+                "ELECTIVE - SPECIAL TOPICS IN SCIENCE AND TECHNOLOGY OF MATERIALS"
+            ]
+        ],
+        "MLS": [
+            [
+                "ECQI1042",
+                "EXTRACTIVE PROCESSES"
+            ],
+            [
+                "ECQI1047",
+                "MECHANICAL BEHAVIOR"
+            ],
+            [
+                "ECQI1035",
+                "TRANSPORT PHENOMENA"
+            ],
+            [
+                "ECQI1052",
+                "TRACK COURSE"
+            ],
+            [
+                "ECQI1045",
+                "PROCESS MODELING AND SIMULATION"
+            ],
+            [
+                "ECQI1059",
+                "CHEMICAL ANALYSIS"
+            ],
+            [
+                "ECQI-MLS-1126",
+                "ATOMIC ABSORPTION AND EMISSION SPECTROSCOPY"
+            ],
+            [
+                "ECQI-MLS-1103",
+                "BIOMATERIALS"
+            ],
+            [
+                "ECQI1043",
+                "INDUSTRIAL SAFETY"
+            ],
+            [
+                "ECQI1053",
+                "TRACK COURSE"
+            ],
+            [
+                "ECQI1055",
+                "NATURAL RESOURCE VALUATION"
+            ],
+            [
+                "ECQI1062",
+                "ORGANIC QUEMISTRY"
+            ],
+            [
+                "ECQI-MLS-1108",
+                "POLYMERS"
+            ],
+            [
+                "ECQI1057",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "ECQI1058",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "ECQI1051",
+                "CATALYTIC MATERIALS"
+            ],
+            [
+                "ECQI1061",
+                "INORGANIC QUEMISTRY"
+            ],
+            [
+                "ECQI1054",
+                "RESEARCH TOPICS"
+            ],
+            [
+                "ECQI1040",
+                "PROCESS CONTROL AND INSTRUMENTATION"
+            ],
+            [
+                "ECQI1056",
+                "TRACK COURSE"
+            ],
+            [
+                "ECQI-MLS-1137",
+                "NATURAL PRODUCTS"
+            ],
+            [
+                "ECQI-MLS-1111",
+                "CRYSTALLOGRAPHY AND MINERALOGY"
+            ],
+            [
+                "ECQI1050",
+                "TRACK COURSE"
+            ],
+            [
+                "ECQI1034",
+                "FUNDAMENTALS OF CERAMICS, VIT"
+            ],
+            [
+                "ECQI-MLS-1147",
+                "CONVENTIONAL AND NON-CONVENTIONAL ENERGY"
+            ],
+            [
+                "ECQI1039",
+                "CHEMICAL KINETICS AND REACTORS"
+            ],
+            [
+                "ECQI-MLS-1112",
+                "METALLIC AND NON-METALLIC MINERAL DEPOSITS"
+            ],
+            [
+                "ECQI1048",
+                "PROJECT MANAGEMENT"
+            ],
+            [
+                "ECQI1038",
+                "THERMODYNAMICS OF CONDENSED MATTER"
+            ],
+            [
+                "ECQI1046",
+                "TRANSFORMATION OF MATERIALS"
+            ],
+            [
+                "ECQI1037",
+                "APPLIED INSTRUMENTAL ANALYSIS"
+            ],
+            [
+                "ECQI1044",
+                "UNIT OPERATIONS"
+            ],
+            [
+                "ECQI1036",
+                "FUNDAMENTALS OF POLYMERS"
+            ],
+            [
+                "ECQI1049",
+                "FLOW ASSURANCE"
+            ]
+        ],
+        "MSCMAT": [
+            [
+                "CHEMSCCHEMATO01",
+                "METALLURGY AND ENGINEERING PROCESSES"
+            ],
+            [
+                "CHEMSCCHEMAT01",
+                "STRUCTURE PROPERTY RELATIONSHIP OF MATERIALS"
+            ],
+            [
+                "CHEMSCCHEMAT11",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "CHEMSCCHEMAT08",
+                "MATERIALS SIMULATION"
+            ],
+            [
+                "CHEMSCCHEMAT06",
+                "MATERIALS SYNTHESIS, EXTRACTION AND CHARACTERIZATION"
+            ],
+            [
+                "CHEMSCCHEMAT02",
+                "PRINCIPLES OF SIMULATION PROCESSES "
+            ],
+            [
+                "CHEMSCCHEMAT15",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "CHEMSCCHEMAT14",
+                "CATALYTIC MATERIALS*"
+            ],
+            [
+                "CHEMSCCHEMAT05",
+                "CURRENT TRENDS IN CHEMISTRY"
+            ],
+            [
+                "CHEMSCCHEMAT13",
+                "BIOMATERIALS*"
+            ],
+            [
+                "CHEMSCCHEMAT07",
+                "INDUSTRIAL PROCESSES"
+            ],
+            [
+                "CHEMSCCHEMAT04",
+                "RESEARCH METHODS"
+            ],
+            [
+                "CHEMSCCHEMATO02",
+                "FLOW ASSURANCE IN INDUSTRIAL PROCESSES AND THEIR VALUE CHAIN"
+            ],
+            [
+                "CHEMSCCHEMAT03",
+                "PHYSICAL CHEMISTRY OF MATERIALS"
+            ],
+            [
+                "CHEMSCCHEMATO03",
+                "PROJECT MANAGEMENT IN MATERIALS SCIENCE AND ENGINEERING"
+            ],
+            [
+                "CHEMSCCHEMAT09",
+                "ETHICS AND INTELLECTUAL PROPERTY"
+            ],
+            [
+                "CHEMSCCHEMAT10",
+                "SPECIALIZED SEMINARS IN MATERIALS SCIENCE AND ENGINEERING"
+            ],
+            [
+                "CHEMSCCHEMAT12",
+                "MATERIALS ELECTROCHEMISTRY*"
+            ]
+        ],
+        "MAT": [
+            [
+                "ECQI1060",
+                "CHEMISTRY II"
+            ]
+        ]
+    },
+    "CFN": {
+        "PHY": [
+            [
+                "PHYSEDH15",
+                "ELECTIVE - SPECIAL AND GENERAL RELATIVITY"
+            ],
+            [
+                "PHYSEDH06",
+                "ELECTIVE - ELECTRONIC MICROSCOPY"
+            ],
+            [
+                "PHYSEDH08",
+                "ELECTIVE - SPECIAL TOPICS IN COMPUTATIONAL PHYSICS"
+            ],
+            [
+                "ECFN-PHY-1107",
+                "DENSITY FUNCTIONAL THEORY"
+            ],
+            [
+                "PHYSEGH07",
+                "PROFESSIONAL ELECTIVE VII"
+            ],
+            [
+                "PHYSEGH01",
+                "PROFESSIONAL ELECTIVE I"
+            ],
+            [
+                "PHYS1002",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "PHYSEDH04",
+                "ELECTIVE - THEORETICAL SPECTROSCOPY"
+            ],
+            [
+                "ECFN1021",
+                "TRACK COURSE"
+            ],
+            [
+                "PHYS501",
+                "OSCILLATIONS, ELECTRICITY AND MAGNETISM"
+            ],
+            [
+                "ECFN-PHY-1126",
+                "QUANTUM INFORMATION"
+            ],
+            [
+                "PHYSEDH01",
+                "ELECTIVE - FINITE ELEMENTS"
+            ],
+            [
+                "ECFN1018",
+                "TRACK COURSE"
+            ],
+            [
+                "ECFN1023",
+                "TRACK COURSE"
+            ],
+            [
+                "PHYS602",
+                "QUANTUM MECHANICS I"
+            ],
+            [
+                "ECFN1025",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "PHYS1001",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "ECFN1024",
+                "TRACK COURSE"
+            ],
+            [
+                "ECFN-PHY-1110",
+                "DYNAMICAL SYSTEMS"
+            ],
+            [
+                "PHYSEDH11",
+                "ELECTIVE - QUANTUM INFORMATION"
+            ],
+            [
+                "PHYSEDH02",
+                "ELECTIVE - SPECTROSCOPY I"
+            ],
+            [
+                "PHYSEGH08",
+                "PROFESSIONAL ELECTIVE VIII"
+            ],
+            [
+                "PHYS902",
+                "INTRODUCTION TO ASTROPHYSICS AND COSMOLOGY"
+            ],
+            [
+                "PHYSEGH06",
+                "PROFESSIONAL ELECTIVE VI"
+            ],
+            [
+                "PHYSEDH13",
+                "ELECTIVE - RELATIVISTIC QUANTUM MECHANICS"
+            ],
+            [
+                "ECFN1022",
+                "TRACK COURSE"
+            ],
+            [
+                "PHYS502",
+                "MODERN PHYSICS"
+            ],
+            [
+                "PHYS703",
+                "ELECTRODYNAMICS II"
+            ],
+            [
+                "PHYSEGH03",
+                "PROFESSIONAL ELECTIVE III"
+            ],
+            [
+                "PHYSEDH10",
+                "ELECTIVE - QUANTUM CHROMODYNAMICS "
+            ],
+            [
+                "PHYSEDH18",
+                "ELECTIVE - BIOPHYSICS"
+            ],
+            [
+                "ECFN-PHY-1112",
+                "SPECIAL TOPICS IN COMPUTATIONAL PHYSICS"
+            ],
+            [
+                "ECFN-PHY-1116",
+                "BIOIMAGING"
+            ],
+            [
+                "PHYSEDH09",
+                "ELECTIVE - SPECIAL TOPICS IN CONDENSED MATTER"
+            ],
+            [
+                "PHYS702",
+                "QUANTUM MECHANICS II"
+            ],
+            [
+                "PHYSEDH20",
+                "ELECTIVE - BIOPROCESSES"
+            ],
+            [
+                "PHYSEDH27",
+                "ELECTIVE - PHYSICS OF SEMICONDUCTORS"
+            ],
+            [
+                "PHYSEDH24",
+                "ELECTIVE - MOLECULAR NANOSTRUCTURES"
+            ],
+            [
+                "PHYSEDH21",
+                "ELECTIVE - BIOTECHNOLOGY"
+            ],
+            [
+                "PHYSEDH12",
+                "ELECTIVE - INTRODUCTION TO ASTROPHYSICAL OBJECTS"
+            ],
+            [
+                "PHYS503",
+                "CLASSICAL MECHANICS"
+            ],
+            [
+                "PHYS701",
+                "SOLID STATE PHYSICS I"
+            ],
+            [
+                "PHYSEGH05",
+                "PROFESSIONAL ELECTIVE V"
+            ],
+            [
+                "PHYSOPS01",
+                "RESEARCH SEMINAR"
+            ],
+            [
+                "PHYS901",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "ECFN1026",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "PHYS903",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "PHYSEDH03",
+                "ELECTIVE - SPECTROSCOPY II"
+            ],
+            [
+                "ECFN-PHY-1109",
+                "COMPUTATIONAL PHYSICS II"
+            ],
+            [
+                "PHYSEGH02",
+                "PROFESSIONAL ELECTIVE II"
+            ],
+            [
+                "PHYSEDH16",
+                "ELECTIVE - SPECIAL TOPICS IN PARTICLE PHYSICS"
+            ],
+            [
+                "PHYS704",
+                "COMPUTATIONAL PHYSICS"
+            ],
+            [
+                "PHYSEGH04",
+                "PROFESSIONAL ELECTIVE IV"
+            ],
+            [
+                "PHYSEDH23",
+                "ELECTIVE - DYNAMIC SYSTEMS"
+            ],
+            [
+                "PHYS801",
+                "SOLID STATE PHYSICS II"
+            ],
+            [
+                "PHYSEDH25",
+                "ELECTIVE - SPECIAL TOPICS IN SCIENCE AND TECHNOLOGY OF MATERIALS"
+            ],
+            [
+                "PHYSEDH14",
+                "ELECTIVE - QUANTUM OPTICS"
+            ],
+            [
+                "PHYS601",
+                "STATISTICAL PHYSICS"
+            ],
+            [
+                "ECFN1020",
+                "TRACK COURSE"
+            ],
+            [
+                "PHYS802",
+                "INTRODUCTION TO NUCLEAR AND PARTICLE PHYSICS "
+            ],
+            [
+                "PHYSEDH05",
+                "ELECTIVE - COMPUTATIONAL PHYSICS II"
+            ],
+            [
+                "PHYSEDH17",
+                "ELECTIVE - SPECIAL TOPICS IN QUANTUM INFORMATION"
+            ],
+            [
+                "PHYSEDH07",
+                "ELECTIVE - DENSITY FUNCTIONAL THEORY"
+            ],
+            [
+                "ECFN1001",
+                "PHYSICS I"
+            ],
+            [
+                "PHYS603",
+                "ELECTRODYNAMICS I"
+            ],
+            [
+                "PHYS804",
+                "NANODEVICES AND SENSORS"
+            ],
+            [
+                "PHYSEDH22",
+                "ELECTIVE - SPECIAL TOPICS IN BIOPHYSICS AND PHYSICS OF LIFE"
+            ],
+            [
+                "ECFN1019",
+                "TRACK COURSE"
+            ],
+            [
+                "PHYS604",
+                "MATHEMATICAL PHYSICS II"
+            ],
+            [
+                "PHYS803",
+                "CONCEPTS OF ELECTROCHEMISTRY"
+            ],
+            [
+                "PHYS504",
+                "MATHEMATICAL PHYSICS I"
+            ],
+            [
+                "PHYSEDH19",
+                "ELECTIVE - BIO IMAGING"
+            ]
+        ],
+        "NAN": [
+            [
+                "PHYSEDN07",
+                "ELECTIVE - BIOPHYSICS"
+            ],
+            [
+                "PHYS708",
+                "BIOTECHNOLOGY"
+            ],
+            [
+                "PHYSEDN12",
+                "ELECTIVE - INORGANIC CHEMISTRY I"
+            ],
+            [
+                "ECFN1028",
+                "OPTICAL SPECTROSCOPY"
+            ],
+            [
+                "ECFN1039",
+                "TRACK COURSE"
+            ],
+            [
+                "PHYSEGN01",
+                "PROFESSIONAL ELECTIVE I"
+            ],
+            [
+                "PHYSEDN05",
+                "ELECTIVE - SPECIAL TOPICS IN SCIENCE AND TECHNOLOGY OF MATERIALS"
+            ],
+            [
+                "PHYSEDN04",
+                "ELECTIVE - THERMAL TREATMENT OF MATERIALS"
+            ],
+            [
+                "ECFN1030",
+                "TRACK COURSES"
+            ],
+            [
+                "PHYS706",
+                "PHYSICAL CHEMISTRY I"
+            ],
+            [
+                "ECFN1032",
+                "X-RAY SPECTROSCOPY"
+            ],
+            [
+                "ECFN-NAN-1102",
+                "NANOMANUFACTURING LABORATORY"
+            ],
+            [
+                "PHYSEDN01",
+                "ELECTIVE - PHYSICS OF SEMICONDUCTORS"
+            ],
+            [
+                "PHYSEDN10",
+                "ELECTIVE - SPECIAL TOPICS IN BIOPHYSICS AND PHYSICS OF LIFE"
+            ],
+            [
+                "PHYSEDN06",
+                "ELECTIVE - ELECTRONIC MICROSCOPY"
+            ],
+            [
+                "PHYSEDN16",
+                "ELECTIVE - ELECTROCHEMISTRY CONCEPTS"
+            ],
+            [
+                "PHYSEDN11",
+                "ELECTIVE - BIOSENSORS"
+            ],
+            [
+                "PHYS705",
+                "SPECTROSCOPY I"
+            ],
+            [
+                "PHYSEDN02",
+                "ELECTIVE - NANOFABRICATION LABORATORY"
+            ],
+            [
+                "ECFN1035",
+                "TRACK COURSE"
+            ],
+            [
+                "PHYSEGN07",
+                "PROFESSIONAL ELECTIVE VII"
+            ],
+            [
+                "ECFN-NAN-1113",
+                "BIOMATERIALS"
+            ],
+            [
+                "PHYSEDN03",
+                "ELECTIVE - MOLECULAR NANOSTRUCTURES"
+            ],
+            [
+                "PHYSEGN04",
+                "PROFESSIONAL ELECTIVE IV"
+            ],
+            [
+                "PHYSEDN13",
+                "ELECTIVE - BIOMATERIALS"
+            ],
+            [
+                "ECFN1040",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "PHYSEGN03",
+                "PROFESSIONAL ELECTIVE III"
+            ],
+            [
+                "ECFN1027",
+                "PHYSICAL CHEMISTRY"
+            ],
+            [
+                "PHYSEGN05",
+                "PROFESSIONAL ELECTIVE V"
+            ],
+            [
+                "PHYSEDN21",
+                "ELECTIVE - THEORETICAL SPECTROSCOPY"
+            ],
+            [
+                "ECFN1041",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "PHYSEDN17",
+                "ELECTIVE - COMPUTATIONAL PHYSICS I"
+            ],
+            [
+                "PHYSEDN09",
+                "ELECTIVE - BIOPROCESSES"
+            ],
+            [
+                "PHYS805",
+                "SPECTROSCOPY II"
+            ],
+            [
+                "PHYSEDN20",
+                "ELECTIVE - CHEMICAL ANALYSIS I"
+            ],
+            [
+                "ECFN1031",
+                "TRACK COURSE"
+            ],
+            [
+                "ECFN-NAN-1120",
+                "SOLID STATE PHYSICS II"
+            ],
+            [
+                "PHYSEGN02",
+                "PROFESSIONAL ELECTIVE II"
+            ],
+            [
+                "ECFN-NAN-1109",
+                "BIOIMAGING"
+            ],
+            [
+                "PHYSEDN08",
+                "ELECTIVE - BIO IMAGING"
+            ],
+            [
+                "PHYSEGN08",
+                "PROFESSIONAL ELECTIVE VIII"
+            ],
+            [
+                "ECFN1033",
+                "NANODEVICES AND SENSORS"
+            ],
+            [
+                "ECFN1038",
+                "TRACK COURSE"
+            ],
+            [
+                "PHYSEDN14",
+                "ELECTIVE - SPECTROSCOPY I"
+            ],
+            [
+                "ECFN1029",
+                "NANOBIOTECHNOLOGY"
+            ],
+            [
+                "PHYSEGN06",
+                "PROFESSIONAL ELECTIVE VI"
+            ],
+            [
+                "ECFN1036",
+                "TRACK COURSE"
+            ],
+            [
+                "PHYSEGN09",
+                "PROFESSIONAL ELECTIVE IX"
+            ],
+            [
+                "ECFN1034",
+                "TRACK COURSE"
+            ]
+        ],
+        "MSCFIS": [
+            [
+                "PHYMSCFISAPL02",
+                "SOLID STATE PHYSICS OF LOW DIMENSIONAL SYSTEMS"
+            ],
+            [
+                "PHYMSCFISAPLO13",
+                "NANOFABRICATION"
+            ],
+            [
+                "PHYMSCFISAPLO01",
+                "COMPUTATIONAL PHYSICS"
+            ],
+            [
+                "PHYMSCFISAPLO04",
+                "MANY-BODY THEORY"
+            ],
+            [
+                "PHYMSCFISAPLO06",
+                "CONDENSED MATTER FIELD THEORY"
+            ],
+            [
+                "PHYMSCFISAPLO07",
+                "QUANTUM TRANSPORT THEORY"
+            ],
+            [
+                "PHYMSCFISAPLO18",
+                "SAMPLE PREPARATION TECHNIQUE"
+            ],
+            [
+                "PHYMSCFISAPLO12",
+                "SPECTROSCOPY LABORATORY II"
+            ],
+            [
+                "PHYMSCFISAPLO20",
+                "RESEARCH TOPICS"
+            ],
+            [
+                "PHYMSCFISAPLO19",
+                "NANOMATERIALS CHARACTERIZATION TECHNIQUE WITH SYNCHROTRON RADIATION"
+            ],
+            [
+                "PHYMSCFISAPLO10",
+                "INTRODUCTION TO ELECTRONIC STRUCTURE SIMULATIONS"
+            ],
+            [
+                "PHYMSCFISAPL04",
+                "SPECTROSCOPY"
+            ],
+            [
+                "PHYMSCFISAPLO11",
+                "SIMULATION OF NANOSCALE SURFACES AND INTERFACES"
+            ],
+            [
+                "PHYMSCFISAPLO17",
+                "NANOMAGNETISM LABORATORY"
+            ],
+            [
+                "PHYMSCFISAPLO02",
+                "SPECTROSCOPY LABORATORY I"
+            ],
+            [
+                "PHYMSCFISAPLO08",
+                "SIMULATION OF NANOSTRUCTURES AND PROPERTIES OF NANOSTRUCTURED MATERIALS"
+            ],
+            [
+                "PHYMSCFISAPLO05",
+                "QUANTUM INFORMATION THEORY"
+            ],
+            [
+                "PHYMSCFISAPL03",
+                "QUANTUM MECHANICS IN NANOSCIENCE "
+            ],
+            [
+                "PHYMSCFISAPL01",
+                "STATISTICAL MECHANICS"
+            ],
+            [
+                "PHYMSCFISAPLO16",
+                "NANOMATERIALS PREPARATION TECHNIQUES"
+            ],
+            [
+                "PHYMSCFISAPLO09",
+                "FUNDAMENTALS OF AB INITIO AND DFT METHODS FOR NANOSCIENCES"
+            ],
+            [
+                "PHYMSCFISAPLO03",
+                "OPEN QUANTUM SYSTEMS"
+            ],
+            [
+                "PHYMSCFISAPLO14",
+                "MICROSCOPY TECHNIQUES"
+            ]
+        ],
+        "MSCEDF": [
+            [
+                "PHYMSCSTEMF05",
+                "MINOR COURSE 2"
+            ],
+            [
+                "PHYMSCSTEMFOP08",
+                "ADVANCED PROGRAMMING ORIENTED TOWARDS TEACHER-STUDENT INTERACTION"
+            ],
+            [
+                "PHYMSCSTEMFOP03",
+                "ELECTROMAGNETISM AND CLASS EXPERIMENTS"
+            ],
+            [
+                "PHYMSCSTEMFOP05",
+                "INTRODUCTION TO NANOTECHNOLOGY"
+            ],
+            [
+                "PHYMSCSTEMF12",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "PHYMSCSTEMFOP06",
+                "INTRODUCTION TO QUANTUM PHYSICS"
+            ],
+            [
+                "PHYMSCSTEMFOP10",
+                "INTRODUCTION TO COSMOLOGY"
+            ],
+            [
+                "PHYMSCSTEMFOP04",
+                "INTRODUCTION TO ASTROPHYSICS"
+            ],
+            [
+                "PHYMSCSTEMF06",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "PHYMSCSTEMF04",
+                "MINOR COURSE 1"
+            ],
+            [
+                "PHYMSCSTEMFOP02",
+                "OPTICS, LASERS, HOLOGRAPHY AND APPLICATIONS"
+            ],
+            [
+                "PHYMSCSTEMF10",
+                "MINOR COURSE 3"
+            ],
+            [
+                "PHYMSCSTEMFOP01",
+                "UPDATE ON THE TEACHING OF CLASSICAL MECHANICS"
+            ],
+            [
+                "PHYMSCSTEMF11",
+                "MINOR COURSE 4"
+            ],
+            [
+                "PHYMSCSTEMFOP09",
+                "COMPUTATIONAL PHYSICS: MODELING AND SIMULATION"
+            ]
+        ]
+    },
+    "CGI": {
+        "GEO": [
+            [
+                "ECTEA1018",
+                "VOLCANOLOGY"
+            ],
+            [
+                "GEOLEDG24",
+                "ELECTIVE - APPLIED GEOPHYSICS"
+            ],
+            [
+                "GEOLEGG06",
+                "PROFESSIONAL ELECTIVE VI"
+            ],
+            [
+                "GEOLEGG07",
+                "PROFESSIONAL ELECTIVE VII"
+            ],
+            [
+                "ECTEA1016",
+                "HYDROLOGY AND HYDROGEOLOGY"
+            ],
+            [
+                "ECTEA1019",
+                "STRUCTURAL GEOLOGY"
+            ],
+            [
+                "ECTEA1021",
+                "TECTONICS AND GEODYNAMICS"
+            ],
+            [
+                "GEOLEDG10",
+                "ELECTIVE - PALEOCLIMATE"
+            ],
+            [
+                "GEOLEDG07",
+                "SEISMOLOGY"
+            ],
+            [
+                "GEOLEDG06",
+                "ELECTIVE - GEOTHERMICS AND ENERGY SOURCES"
+            ],
+            [
+                "GEOLEDG17",
+                "ELECTIVE - INNOVATIVE AND PROJECT DEVELOPMENT"
+            ],
+            [
+                "GEOLEDG05",
+                "ELECTIVE - ENVIRONMENTAL GEOLOGY AND THREATS"
+            ],
+            [
+                "GEOLEGG04",
+                "PROFESSIONAL ELECTIVE IV"
+            ],
+            [
+                "GEOLEDG15",
+                "ELECTIVE - COMPUTATIONAL STATISTICS, METHODS AND MODELS"
+            ],
+            [
+                "GEOLEDG21",
+                "ELECTIVE - INTRODUCTION TO SUSTAINABLE DEVELOPMENT"
+            ],
+            [
+                "ECTEA1004",
+                "SPATIAL ANALYSIS IN EARTH SCIENCES"
+            ],
+            [
+                "GEOLEDG02",
+                "ELECTIVE - MICROPALEONTOLOGY AND PALYNOLOGY"
+            ],
+            [
+                "ECTEA1029",
+                "TOPICS IN EARTH SCIENCES"
+            ],
+            [
+                "GEOLEGG02",
+                "PROFESSIONAL ELECTIVE II"
+            ],
+            [
+                "ECTEA1003",
+                "INTRODUCTION TO FIELD METHODS"
+            ],
+            [
+                "GEOLEDG04",
+                "ELECTIVE - MOLECULAR PALEONTOLOGY"
+            ],
+            [
+                "ECTEA1027",
+                "GEOLOGY OF ECUADOR"
+            ],
+            [
+                "ECTEA1024",
+                "GEOLOGICAL CARTOGRAPHY"
+            ],
+            [
+                "GEOLEDG09",
+                "ELECTIVE - MARINE AND COASTAL GEOLOGY"
+            ],
+            [
+                "ECTEA1012",
+                "SEDIMENTARY GEOLOGY"
+            ],
+            [
+                "GEOLEDG20",
+                "ELECTIVE - ENVIRONMENTAL SCIENCES"
+            ],
+            [
+                "GEOLEDG11",
+                "ELECTIVE - ADVANCED SEDIMENTOLOGY"
+            ],
+            [
+                "ECTEA1020",
+                "ELECTIVE II"
+            ],
+            [
+                "GEOLEGG03",
+                "PROFESSIONAL ELECTIVE III"
+            ],
+            [
+                "GEOLEDG16",
+                "ELECTIVE - GEOGRAPHICAL INFORMATION SYSTEMS AND REMOTE SENSORS"
+            ],
+            [
+                "ECTEA1006",
+                "GEOPHYSICS"
+            ],
+            [
+                "GEOLEGG05",
+                "PROFESSIONAL ELECTIVE V"
+            ],
+            [
+                "ECTEA1028",
+                "ELECTIVE IV"
+            ],
+            [
+                "ECTEA1015",
+                "ELECTIVE I"
+            ],
+            [
+                "ECTEA1017",
+                "INTRODUCTION TO SUSTAINABLE DEVELOPMENT"
+            ],
+            [
+                "ECTEA1002",
+                "INTRODUCTION TO GEOLOGY"
+            ],
+            [
+                "GEOLEDG14",
+                "ELECTIVE - PROGRAMMING IN R"
+            ],
+            [
+                "ECTEA1005",
+                "OCEANOGRAPHY AND CLIMATE"
+            ],
+            [
+                "GEOLEDG13",
+                "ELECTIVE - METALLIC AND NON-METALLIC MINERAL RESERVOIRS"
+            ],
+            [
+                "ECTEA1014",
+                "MINERAL DEPOSITS"
+            ],
+            [
+                "ECTEA1025",
+                "ELECTIVE III"
+            ],
+            [
+                "ECTEA1007",
+                "GEOGRAPHIC INFORMATION SYSTEMS AND REMOTE SENSING"
+            ],
+            [
+                "ECTEA1009",
+                "GEOCHEMISTRY"
+            ],
+            [
+                "ECTEA1013",
+                "IGNEOUS AND METAMORPHIC PETROLOGY"
+            ],
+            [
+                "GEOLEDG25",
+                "ELECTIVE - TOPICS IN EARTH SCIENCES"
+            ],
+            [
+                "GEOLEDG01",
+                "ELECTIVE - EVOLUTION OF THE NEOTROPIC"
+            ],
+            [
+                "GEOLEDG18",
+                "ELECTIVE - GEOMORPHOLOGY"
+            ],
+            [
+                "GEOLEDG03",
+                "ELECTIVE - VERTEBRATE PALEONTOLOGY"
+            ],
+            [
+                "GEOLEDG08",
+                "ELECTIVE - GEOLOGICAL RESOURCES"
+            ],
+            [
+                "GEOLEDG12",
+                "ELECTIVE - HYDROLOGY AND HYDROGEOLOGY"
+            ],
+            [
+                "ECTEA1008",
+                "COMPUTATIONAL METHODS FOR EARTH SCIENCES"
+            ],
+            [
+                "ECTEA1023",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "ECTEA1022",
+                "SOCIAL-ENVIRONMENTAL SUSTAINABILITY STRATEGIES"
+            ],
+            [
+                "ECTEA1026",
+                "CAPSTONE PROJECT II"
+            ],
+            [
+                "ECTEA1010",
+                "CRYSTALLOGRAPHY AND MINERALOGY"
+            ],
+            [
+                "ECTEA1011",
+                "GEOMORPHOLOGY"
+            ],
+            [
+                "GEOLEGG01",
+                "PROFESSIONAL ELECTIVE I"
+            ]
+        ],
+        "AGA": [
+            [
+                "SOCI1006",
+                "ORAL AND WRITTEN COMMUNICATION"
+            ],
+            [
+                "ECFN1043",
+                "PHYSICS I"
+            ],
+            [
+                "ECMC1071",
+                "STATISTICS AND PROBABILITY"
+            ]
+        ]
+    },
+    "CSI": {
+        "ECE": [
+            [
+                "ECER-UFB-08-045",
+                "ENVIRONMENTAL EDUCATION AND REGENERATIVE DEVELOPMENT"
+            ],
+            [
+                "ECE_UFP_IV_020",
+                "CALCULUS I"
+            ],
+            [
+                "ECER-UFB-IV-023",
+                "CHEMISTRY I"
+            ],
+            [
+                "ECE_UT_IX_044",
+                "INTEGRATED LECTURE: EXPERIMENTAL SCIENCES AND ITS TEACHING AND LEARNING"
+            ],
+            [
+                "ECER-UFB-IX-048",
+                "CAPSTONE PROJECT II OR PREPARATION FOR EXIT EXAMINATION II"
+            ],
+            [
+                "ECER-UFB-II-008",
+                "EDUCATION, SCHOOL AND OTHER SOCIO-EDUCATIONAL CONTEXTS"
+            ],
+            [
+                "ECER-UFB-07-036",
+                "NUMERICAL METHODS"
+            ],
+            [
+                "ECE_UFP_VII_036",
+                "PHYSICS II"
+            ],
+            [
+                "ECE_UFP_V_027",
+                "BIOLOGY II"
+            ],
+            [
+                "ECER-UFB-I-001",
+                "EDUCATION, SCIENCE AND GOOD LIVING"
+            ],
+            [
+                "ECER-UFB-V-026",
+                "CALCULUS II"
+            ],
+            [
+                "ECER-UFB-VI-035",
+                "INTEGRATED LECTURE: HIGH SCHOOL MATHEMATICS AND ITS TEACHING AND LEARNING"
+            ],
+            [
+                "ECER-UFB-II-013",
+                "ACADEMIC READING AND WRITING"
+            ],
+            [
+                "ECER-UFB-V-030",
+                "INTEGRATED LECTURE: RESEARCH, DESIGN AND INNOVATION IN SCIENCE II"
+            ],
+            [
+                "ECER-UFB-03-014",
+                "TEACHING AND LEARNING OF EXPERIMENTAL SCIENCES"
+            ],
+            [
+                "ECER-UFB-IV-021",
+                "LINEAR ALGEBRA"
+            ],
+            [
+                "ECE_UFP_IV_021",
+                "CHEMISTRY I"
+            ],
+            [
+                "ECE_UFB_I_003",
+                "NATURAL SCIENCES IN PRIMARY EDUCATION"
+            ],
+            [
+                "ECER-UFB-I-002",
+                "MATHEMATICS IN PRIMARY EDUCATION"
+            ],
+            [
+                "ECER-UFB-II-012",
+                "MODELS AND PROCESSES IN EDUCATIONAL RESEARCH: EXPLORATION, PROBLEMATIZATION AND DIAGNOSIS"
+            ],
+            [
+                "ECE_UFP_IV_019",
+                "LINEAR ALGEBRA"
+            ],
+            [
+                "ECE_UFP_IV_022",
+                "BIOLOGY I"
+            ],
+            [
+                "ECE_UT_OPT_46",
+                "NUMERICAL METHODS"
+            ],
+            [
+                "ECER-UFB-II-007",
+                "LEARNING AND HUMAN DEVELOPMENT"
+            ],
+            [
+                "ECER-UFB-08-042",
+                "INTEGRATED LECTURE: HIGH SCHOOL LIFE SCIENCES AND ITS TEACHING AND LEARNING"
+            ],
+            [
+                "ECE_UFB_II_008",
+                "EDUCATION, SCHOOL AND OTHER SOCIO-EDUCATIONAL CONTEXTS"
+            ],
+            [
+                "ECER-UFB-I-006",
+                "LANGUAGE, COMMUNICATION AND ACADEMIC WRITING"
+            ],
+            [
+                "ECE_UFB_II_011",
+                "MODELS AND PROCESSES IN EDUCATIONAL RESEARCH: EXPLORATION, PROBLEMATIZATION AND DIAGNOSIS"
+            ],
+            [
+                "ECE_UFP_V_024",
+                "CALCULUS II"
+            ],
+            [
+                "ECER-UFB-IV-025",
+                "INTEGRATED LECTURE: RESEARCH, DESIGN AND INNOVATION IN SCIENCE I"
+            ],
+            [
+                "ECER-UFB-07-040",
+                "INTEGRATED LECTURE: HIGH SCHOOL PHYSICAL, EARTH AND SPACE SCIENCES AND THEIR TEACHING AND LEARNING"
+            ],
+            [
+                "ECE_UFP_IV_023",
+                "INTEGRATED LECTURE: RESEARCH, DESIGN AND INNOVATION IN SCIENCE I"
+            ],
+            [
+                "ECE_UFP_VI_032",
+                "INTRODUCTION TO ENGINEERING"
+            ],
+            [
+                "ECE_UFP_VII_035",
+                "ELECTIVE III"
+            ],
+            [
+                "ECER-UFB-I-004",
+                "INTEGRATED LECTURE: EDUCATIONAL SYSTEMS"
+            ],
+            [
+                "ECE_UFB_II_009",
+                "HIGH SCHOOL MATHEMATICS"
+            ],
+            [
+                "ECE_UFP_V_028",
+                "INTEGRATED LECTURE: RESEARCH, DESIGN AND INNOVATION IN SCIENCE II"
+            ],
+            [
+                "ECER-UFB-II-010",
+                "HIGH SCHOOL MATHEMATICS"
+            ],
+            [
+                "ECER-UFB-03-015",
+                "HIGH SCHOOL CHEMISTRY"
+            ],
+            [
+                "ECER-UFB-VI-031",
+                "CALCULUS III"
+            ],
+            [
+                "ECE_UFB_II_007",
+                "LEARNING AND HUMAN DEVELOPMENT"
+            ],
+            [
+                "ECE_UFB_III_016",
+                "INTEGRATED LECTURE: DESIGN, MANAGEMENT AND EVALUATION OF CONTEXTUALIZED AND FLEXIBLE CURRICULAR MODE"
+            ],
+            [
+                "ECER-UFB-08-043",
+                "CAPSTONE PROJECT I OR PREPARATION FOR EXIT EXAMINATION I"
+            ],
+            [
+                "ECE_UFB_III_017",
+                "MODELS AND PROCESSES OF EDUCATIONAL RESEARCH: RESEARCH PROPOSALS FOR THE IMPROVEMENT OF EDUCATIONAL "
+            ],
+            [
+                "ECE_UFB_III_014",
+                "HIGH SCHOOL BIOLOGY AND CHEMISTRY"
+            ],
+            [
+                "ECE_UFB_I_004",
+                "INTEGRATED LECTURE: EDUCATIONAL SYSTEMS"
+            ],
+            [
+                "ECE_UT_IX_043",
+                "COMPUTER SCIENCE AND TECHNOLOGY IN THE TEACHING AND LEARNING OF EXPERIMENTAL SCIENCES"
+            ],
+            [
+                "ECE_UFB_II_010",
+                "INTEGRATED LECTURE: THE CONTEXTS OF THE SUBJECTS"
+            ],
+            [
+                "ECE_UFB_I_002",
+                "MATHEMATICS IN PRIMARY EDUCATION"
+            ],
+            [
+                "ECER-UFB-IX-046",
+                "COMPUTER SCIENCE AND TECHNOLOGY IN THE TEACHING AND LEARNING OF EXPERIMENTAL SCIENCES"
+            ],
+            [
+                "ECE_UFP_V_025",
+                "PHYSICS I"
+            ],
+            [
+                "ECER-UFB-I-005",
+                "EDUCATIONAL RESEARCH: THEORETICAL AND EPISTEMOLOGICAL BASES"
+            ],
+            [
+                "ECER-UFB-IX-047",
+                "INTEGRATED LECTURE: EXPERIMENTAL SCIENCES AND ITS TEACHING AND LEARNING"
+            ],
+            [
+                "ECER-UFB-07-038",
+                "EARTH SCIENCES"
+            ],
+            [
+                "ECE_UFP_VI_033",
+                "INTEGRATED LECTURE: HIGH SCHOOL MATHEMATICS AND ITS TEACHING AND LEARNING"
+            ],
+            [
+                "ECER-UFB-03-017",
+                "HIGH SCHOOL PHYSICS"
+            ],
+            [
+                "ECER-UFB-V-027",
+                "PHYSICS I"
+            ],
+            [
+                "ECE_UFB_III_013",
+                "TEACHING AND LEARNING OF EXPERIMENTAL SCIENCES"
+            ],
+            [
+                "ECE_UT_VIII_040",
+                "INTEGRATED LECTURE: HIGH SCHOOL LIFE SCIENCES AND ITS TEACHING AND LEARNING"
+            ],
+            [
+                "ECE_UT_IX_045",
+                "CAPSTONE PROJECT II OR PREPARATION FOR EXIT EXAMINATION II"
+            ],
+            [
+                "ECE_UFP_V_026",
+                "ELECTIVE I"
+            ],
+            [
+                "ECER-UFB-03-016",
+                "FUNDAMENTALS OF HIGHER MATHEMATICS"
+            ],
+            [
+                "ECER-UFB-VI-032",
+                "PHYSICS II"
+            ],
+            [
+                "ECE_UFB_III_018",
+                "ENGLISH LEVEL II"
+            ],
+            [
+                "ECER-UFB-07-037",
+                "INTRODUCTION TO PROGRAMMING"
+            ],
+            [
+                "ECE_UFP_VII_038",
+                "INTEGRATED LECTURE: HIGH SCHOOL PHYSICAL, EARTH AND SPACE SCIENCES AND THEIR TEACHING AND LEARNING"
+            ],
+            [
+                "ECER-UFB-IV-024",
+                "BIOLOGY I"
+            ],
+            [
+                "ECER-UFB-08-041",
+                "ETHICS AND PROFESSIONAL DEVELOPMENT OF THE TEACHER"
+            ],
+            [
+                "ECE_UFB_I_001",
+                "EDUCATION, SCIENCE AND GOOD LIVING"
+            ],
+            [
+                "ECE_UT_VIII_039",
+                "ETHICS AND PROFESSIONAL DEVELOPMENT OF THE TEACHER"
+            ],
+            [
+                "ECER-UFB-V-029",
+                "BIOLOGY II"
+            ],
+            [
+                "ECER-UFB-VI-034",
+                "CHEMICAL ANALYSIS"
+            ],
+            [
+                "ECER-UFB-IX-049",
+                "PHILOSOPHY OF SCIENCE"
+            ],
+            [
+                "ECER-UFB-08-044",
+                "HISTORY OF SCIENCE AND INNOVATION"
+            ],
+            [
+                "ECE_UFP_VI_029",
+                "CHEMISTRY II"
+            ],
+            [
+                "ECE_UFP_VII_034",
+                "ELECTIVE II"
+            ],
+            [
+                "ECER-UFB-II-009",
+                "HIGH SCHOOL BIOLOGY"
+            ],
+            [
+                "ECER-UFB-07-039",
+                "INTRODUCTION TO ENGINEERING"
+            ],
+            [
+                "ECER-UFB-IV-022",
+                "CALCULUS I"
+            ],
+            [
+                "ECE_UT_VIII_042",
+                "HISTORY OF SCIENCE AND INNOVATION"
+            ],
+            [
+                "ECE_UFP_VII_037",
+                "GEOLOGY II"
+            ],
+            [
+                "ECE_UFB_II_012",
+                "ENGLISH LEVEL I"
+            ],
+            [
+                "ECE_UT_VIII_041",
+                "CAPSTONE PROJECT I OR PREPARATION FOR EXIT EXAMINATION I"
+            ],
+            [
+                "ECER-UFB-VI-033",
+                "STATISTICS AND PROBABILITY"
+            ],
+            [
+                "ECE_UFP_VI_031",
+                "STATISTICS AND PROBABILITY"
+            ],
+            [
+                "ECER-UFB-03-018",
+                "INTEGRATED LECTURE: DESIGN, MANAGEMENT AND EVALUATION OF CONTEXTUALIZED, FLEXIBLE AND ADAPTED CURRIC"
+            ],
+            [
+                "ECER-UFB-03-020",
+                "ACADEMIC READING AND WRITING WORKSHOP"
+            ],
+            [
+                "ECE_UFB_III_015",
+                "HIGH SCHOOL PHYSICS"
+            ],
+            [
+                "ECER-UFB-II-011",
+                "INTEGRATED LECTURE: CONTEXTS OF EDUCATIONAL SUBJECTS AND HUMAN LEARNING"
+            ],
+            [
+                "ECE_UFB_I_006",
+                "LANGUAGE AND COMMUNICATION"
+            ],
+            [
+                "ECER-UFB-I-003",
+                "NATURAL SCIENCES IN PRIMARY EDUCATION"
+            ],
+            [
+                "ECE_UFB_I_005",
+                "RESEARCH AND TEACHING PRACTICE: LESSON STUDY"
+            ],
+            [
+                "ECER-UFB-V-028",
+                "CHEMISTRY II"
+            ],
+            [
+                "ECER-UFB-03-019",
+                "MODELS AND PROCESSES IN EDUCATIONAL RESEARCH: RESEARCH PROPOSALS FOR THE IMPROVEMENT OF EDUCATIONAL "
+            ],
+            [
+                "ECE_UFP_VI_030",
+                "GEOLOGY I"
+            ]
+        ],
+        "AGA": [
+            [
+                "ECMC1070",
+                "CALCULUS I"
+            ]
+        ]
+    },
+    "ELIAA": {
+        "AGA": [
+            [
+                "ELIAA0014",
+                "MANAGEMENT FOR AGRIBUSINESS SMEs"
+            ],
+            [
+                "ELIAA0012",
+                "FOOD ENGINEERING"
+            ],
+            [
+                "ELIAA0023",
+                "MANAGEMENT OF THE POST-HARVEST, STORAGE AND TRANSPORT CHAIN"
+            ],
+            [
+                "ELIAA0022",
+                "YACHAY NEW PRODUCT DEVELOPMENT"
+            ],
+            [
+                "ELIAA0026",
+                "PROJECTS AND PRODUCTIVE INNOVATION"
+            ],
+            [
+                "ELIAA0006",
+                "AGROINDUSTRIAL YACHAY I"
+            ],
+            [
+                "ELIAA0013",
+                "UNIT OPERATIONS"
+            ],
+            [
+                "ELIAA0019",
+                "INDUSTRIALIZATION OF FRUITS AND VEGETABLES"
+            ],
+            [
+                "ELIAA0016",
+                "INDUSTRIALIZATION OF DAIRY PRODUCTS"
+            ],
+            [
+                "ELIAA0008",
+                "FOOD MICROBIOLOGY"
+            ],
+            [
+                "ELIAA0003",
+                "PRODUCTIVE YACHAY II"
+            ],
+            [
+                "ELIAA0018",
+                "FOOD SCIENCE"
+            ],
+            [
+                "ELIAA0017",
+                "INDUSTRIALIZATION OF MEAT, FISHERY AND AQUACULTURE PRODUCTS"
+            ],
+            [
+                "ELIAA0027",
+                "CAPSTONE PROJECT I"
+            ],
+            [
+                "ELIAA0025",
+                "CONTAINER, PACKING AND PACKAGING TECHNOLOGIES"
+            ],
+            [
+                "ELIAA0007",
+                "FOOD CHEMISTRY"
+            ],
+            [
+                "ELIAA0002",
+                "WATER, SOIL AND CLIMATE CHANGE"
+            ],
+            [
+                "ELIAA0005",
+                "GENERAL MICROBIOLOGY"
+            ],
+            [
+                "ELIAA0001",
+                "PRODUCTIVE YACHAY I"
+            ],
+            [
+                "ELIAA0021",
+                "EXPERIMENTAL DESIGN"
+            ],
+            [
+                "ELIAA0015",
+                "AGROINDUSTRIAL YACHAY III"
+            ],
+            [
+                "ELIAA0011",
+                "PLANT PRODUCTION PRINCIPLES AND TECHNOLOGIES"
+            ],
+            [
+                "ELIAA0028",
+                "MANAGERIAL YACHAY"
+            ],
+            [
+                "ELIAA0024",
+                "INDUSTRIALIZATION OF CEREALS, LEGUMES AND OILSEEDS"
+            ],
+            [
+                "ELIAA0020",
+                "QUALITY MANAGEMENT AND AGRI-FOOD SAFETY"
+            ],
+            [
+                "ELIAA0009",
+                "AGROINDUSTRIAL YACHAY II"
+            ],
+            [
+                "ELIAA0010",
+                "SUSTAINABLE ANIMAL PRODUCTION SYSTEMS"
+            ],
+            [
+                "ELIAA0004",
+                "BIOCHEMISTRY"
+            ]
+        ]
+    }
+}

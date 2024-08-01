@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/school.dart';
-import '../static/data.dart';
+import '../services/school_service.dart';
 import 'career_page.dart';
 
 class BooksPage extends StatefulWidget {
@@ -12,6 +12,21 @@ class BooksPage extends StatefulWidget {
 
 class BooksPageState extends State<BooksPage> {
   School? selectedSchool;
+  List<School> schools = [];
+
+  @override
+  void initState() {
+    super.initState();
+    _loadSchools();
+  }
+
+  Future<void> _loadSchools() async {
+    final String jsonString = await DefaultAssetBundle.of(context).loadString('courses_parsed.json');
+    final Map<String, School> schoolMap = SchoolService.parseSchools(jsonString);
+    setState(() {
+      schools = schoolMap.values.toList();
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
