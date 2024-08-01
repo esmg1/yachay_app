@@ -11,7 +11,7 @@ class UniApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'UniApp',
+      title: 'YT Multitool (Nombre de Prueba)',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -27,15 +27,15 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('UniApp'),
+        title: const Text('YT Multitool (Nombre de prueba)'),
       ),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Welcome to UniApp!',
-              style: TextStyle(fontSize: 24),
+              'Welcome to YT Multitool (Nombre de prueba)!',
+              style: TextStyle(fontSize: 24), 
             ),
             const SizedBox(height: 20),
             CategoryButton(
