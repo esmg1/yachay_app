@@ -1,0 +1,11 @@
+{
+    "name": "Calculus: Early Transcendentals",
+    "author": "James Stewart",
+    "publishDate": "2015",
+    "ebookLink": "https://example.com/calculus1-ebook",
+    "amazonLink": "https://www.amazon.com/dp/B00XIHG8I6",
+    "professors": [
+        "C. Mayorga (1st Edition)",
+        "P. Narvaez (2nd Edition)"
+    ]
+}
