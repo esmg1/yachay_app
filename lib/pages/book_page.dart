@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../models/book.dart';
 
@@ -6,6 +7,8 @@ class BookPage extends StatelessWidget {
   final Book book;
 
   const BookPage({super.key, required this.book});
+
+  final lgHost = 'libgen.is';
 
   @override
   Widget build(BuildContext context) {
@@ -23,11 +26,19 @@ class BookPage extends StatelessWidget {
             Text('Published: ${book.publishDate}', style: const TextStyle(fontSize: 18)),
             const SizedBox(height: 10),
             if (book.ebookLink.isNotEmpty)
-              TextButton(
-                onPressed: () {
-                  // Open ebook link
-                },
-                child: const Text('Get eBook'),
+              InkWell(
+                child: const Text('Download eBook'),
+                onTap: () => launch(book.ebookLink)
+              )
+            else
+              InkWell(
+                child: const Text('Search eBook in libGen'),
+                onTap: () => launch(Uri(
+                  scheme: 'https',
+                  host: lgHost,
+                  path: '/search.php',
+                  queryParameters: {'req': '${book.author} ${book.name}'}
+                ).toString())
               ),
             if (book.amazonLink.isNotEmpty)
               TextButton(

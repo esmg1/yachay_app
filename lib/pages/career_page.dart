@@ -16,6 +16,7 @@ class CareerPage extends StatelessWidget {
       body: ListView.builder(
         itemCount: career.courses.length,
         itemBuilder: (context, index) {
+          career.courses.sort((a, b) => a.name.compareTo(b.name));
           return ListTile(
             title: Text(career.courses[index].name),
             leading: const Icon(Icons.book),
